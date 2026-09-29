@@ -1,0 +1,123 @@
+{
+  "profile": {
+    "currency": "INR"
+  },
+  "days": {
+    "2026-08-20": {
+      "date": "2026-08-20",
+      "day_name": "Thursday",
+      "locked": false,
+      "income": {
+        "total": 0.0,
+        "entries": []
+      },
+      "expenses": {
+        "total": 0.0,
+        "entries": []
+      },
+      "net": 0.0
+    }
+  },
+  "currency": "INR",
+  "daily_records": {
+    "2026-08-20": {
+      "date": "2026-08-20",
+      "status": "locked",
+      "summary": {
+        "total_expenses": 860.0,
+        "expense_count": 5
+      },
+      "expenses": [
+        {
+          "expense_id": "exp_71ecb10f",
+          "timestamp": "2026-08-20T16:43:39.124398+05:30",
+          "amount": 250.0,
+          "currency": "INR",
+          "category": "food",
+          "description": "lunch",
+          "payment_method": null
+        },
+        {
+          "expense_id": "exp_7072b368",
+          "timestamp": "2026-08-20T16:59:50.475125+05:30",
+          "amount": 100.0,
+          "currency": "INR",
+          "category": "transport",
+          "description": "college travel",
+          "payment_method": null
+        },
+        {
+          "expense_id": "exp_d5efb2fb",
+          "timestamp": "2026-08-20T16:59:50.475173+05:30",
+          "amount": 180.0,
+          "currency": "INR",
+          "category": "food",
+          "description": "lunch",
+          "payment_method": null
+        },
+        {
+          "expense_id": "exp_8c127c53",
+          "timestamp": "2026-08-20T16:59:50.475200+05:30",
+          "amount": 80.0,
+          "currency": "INR",
+          "category": "food",
+          "description": "evening snack",
+          "payment_method": null
+        },
+        {
+          "expense_id": "exp_4dd0b953",
+          "timestamp": "2026-08-20T16:59:50.475222+05:30",
+          "amount": 250.0,
+          "currency": "INR",
+          "category": "food",
+          "description": "dinner",
+          "payment_method": null
+        }
+      ],
+      "income": [
+        {
+          "income_id": "inc_86853488",
+          "timestamp": "2026-08-20T16:59:50.475251+05:30",
+          "amount": 500.0,
+          "currency": "INR",
+          "source": "other",
+          "description": "pocket money / income"
+        }
+      ],
+      "notes": []
+    },
+    "2026-08-21": {
+      "date": "2026-08-21",
+      "status": "locked",
+      "summary": {
+        "total_expenses": 0,
+        "expense_count": 0
+      },
+      "expenses": [],
+      "income": [],
+      "notes": []
+    },
+    "2026-09-08": {
+      "date": "2026-09-08",
+      "status": "locked",
+      "summary": {
+        "total_expenses": 0,
+        "expense_count": 0
+      },
+      "expenses": [],
+      "income": [],
+      "notes": []
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "status": "open",
+      "summary": {
+        "total_expenses": 0,
+        "expense_count": 0
+      },
+      "expenses": [],
+      "income": [],
+      "notes": []
+    }
+  }
+}

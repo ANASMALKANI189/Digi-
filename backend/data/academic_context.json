@@ -1,0 +1,1631 @@
+{
+  "student_context": {
+    "semester": 5,
+    "academic_year": "2026-2027",
+    "academic_term": "Odd Semester",
+    "program": "B.Tech Artificial Intelligence and Machine Learning",
+    "college": "Thakur College Of Engineering and Technology",
+    "location": "Kandivali, Mumbai, Maharashtra, India - 400101",
+    "class": "T.T.-C"
+  },
+
+  "academic_calendar": {
+    "published_date": "2026-05-11",
+
+    "semester": {
+      "start_date": "2026-07-01",
+      "last_instructional_day": "2026-10-28",
+      "end_date": "2026-11-28"
+    },
+
+    "internal_assessment_dates": {
+      "ise_1": "2026-09-01",
+      "ise_2": "2026-10-12"
+    },
+
+    "important_events": [
+      {
+        "name": "Induction / Orientation",
+        "date": "2026-07-01"
+      },
+      {
+        "name": "Ganapati Festival",
+        "start_date": "2026-09-15",
+        "end_date": "2026-09-19",
+        "duration_days": 5
+      },
+      {
+        "name": "Zephyr Technical Festival",
+        "start_date": "2026-09-29",
+        "end_date": "2026-10-01"
+      },
+      {
+        "name": "Last Instructional Day",
+        "date": "2026-10-28"
+      },
+      {
+        "name": "Term Work Submission",
+        "date": "2026-10-29"
+      },
+      {
+        "name": "ESE Oral / Practical Examination",
+        "start_date": "2026-10-30",
+        "end_date": "2026-11-04"
+      },
+      {
+        "name": "Diwali Break / Preparatory Leave",
+        "start_date": "2026-11-05",
+        "end_date": "2026-11-14",
+        "duration_days": 10
+      },
+      {
+        "name": "End Semester Examination",
+        "start_date": "2026-11-16",
+        "end_date": "2026-11-28"
+      },
+      {
+        "name": "In-House Internship",
+        "start_date": "2026-11-30",
+        "end_date": "2026-12-12",
+        "duration": "2 weeks"
+      },
+      {
+        "name": "Out-House Internship",
+        "start_date": "2026-12-01",
+        "end_date": "2026-12-30",
+        "duration": "30 days"
+      },
+      {
+        "name": "Even Semester Commencement",
+        "date": "2027-01-02"
+      }
+    ],
+
+    "academic_phases": [
+      {
+        "week": "1st-8th",
+        "start_date": "2026-07-02",
+        "end_date": "2026-08-22",
+        "activity": "Regular timetable"
+      },
+      {
+        "week": "9th",
+        "start_date": "2026-08-24",
+        "end_date": "2026-08-29",
+        "activity": "ISE-1 / Regular classes"
+      },
+      {
+        "week": "10th-11th",
+        "start_date": "2026-08-31",
+        "end_date": "2026-09-12",
+        "activity": "Regular timetable"
+      },
+      {
+        "week": "12th",
+        "start_date": "2026-09-15",
+        "end_date": "2026-09-19",
+        "activity": "Ganapati Festival"
+      },
+      {
+        "week": "13th-15th",
+        "start_date": "2026-09-21",
+        "end_date": "2026-10-10",
+        "activity": "Regular timetable"
+      },
+      {
+        "week": "16th",
+        "start_date": "2026-10-12",
+        "end_date": "2026-10-17",
+        "activity": "ISE-2 / Regular classes"
+      },
+      {
+        "week": "17th-18th",
+        "start_date": "2026-10-19",
+        "end_date": "2026-10-28",
+        "activity": "Regular timetable"
+      },
+      {
+        "week": "18th-19th",
+        "start_date": "2026-10-30",
+        "end_date": "2026-11-04",
+        "activity": "ESE Oral / Practical"
+      },
+      {
+        "week": "19th-20th",
+        "start_date": "2026-11-05",
+        "end_date": "2026-11-14",
+        "activity": "Diwali Break / Preparatory Leave"
+      },
+      {
+        "week": "21st-22nd",
+        "start_date": "2026-11-16",
+        "end_date": "2026-11-28",
+        "activity": "End Semester Examination"
+      }
+    ],
+
+    "notes": [
+      "In case of holidays, faculty should conduct 42-45 lectures and minimum 12 practical sessions during the semester for completion of syllabus.",
+      "ISE-II / IIE is conducted from the 10th week onwards.",
+      "PBL, mandatory courses, HSMC and specialization courses may be conducted online.",
+      "Even Semester AY 2026-27 begins on 2027-01-02."
+    ]
+  },
+
+  "weekly_timetable": {
+    "monday": [
+      {
+        "time": "08:30-10:30",
+        "activity": "WAD / ML"
+      },
+      {
+        "time": "10:30-11:30",
+        "subject_code": "ML"
+      },
+      {
+        "time": "11:30-12:30",
+        "subject_code": "SSIC"
+      },
+      {
+        "time": "14:30-15:30",
+        "activity": "Notional Learning"
+      },
+      {
+        "time": "15:30-17:30",
+        "activity": "Notional Learning Hours"
+      }
+    ],
+
+    "tuesday": [
+      {
+        "time": "08:30-10:30",
+        "activity": "PS-IV / WAD"
+      },
+      {
+        "time": "10:30-11:30",
+        "subject_code": "ATCD"
+      },
+      {
+        "time": "11:30-12:30",
+        "activity": "BREAK"
+      },
+      {
+        "time": "12:30-13:30",
+        "subject_code": "SE"
+      },
+      {
+        "time": "13:30-14:30",
+        "subject_code": "ATCD",
+        "activity": "Tutorial"
+      },
+      {
+        "time": "15:30-17:30",
+        "activity": "Notional Learning Hours"
+      }
+    ],
+
+    "wednesday": [
+      {
+        "time": "08:30-10:30",
+        "activity": "SE / PS-IV"
+      },
+      {
+        "time": "10:30-11:30",
+        "subject_code": "WAD"
+      },
+      {
+        "time": "11:30-12:30",
+        "activity": "BREAK"
+      },
+      {
+        "time": "12:30-13:30",
+        "subject_code": "ML"
+      },
+      {
+        "time": "13:30-14:30",
+        "subject_code": "SE"
+      },
+      {
+        "time": "14:30-15:30",
+        "subject_code": "ATCD"
+      },
+      {
+        "time": "15:30-17:30",
+        "activity": "Notional Learning Hours"
+      }
+    ],
+
+    "thursday": [
+      {
+        "time": "08:30-09:30",
+        "subject_code": "ATCD"
+      },
+      {
+        "time": "09:30-10:30",
+        "subject_code": "WAD"
+      },
+      {
+        "time": "10:30-12:30",
+        "activity": "SE / ML"
+      },
+      {
+        "time": "12:30-13:30",
+        "activity": "BREAK"
+      },
+      {
+        "time": "13:30-14:30",
+        "subject_code": "SSIC"
+      },
+      {
+        "time": "15:30-16:30",
+        "activity": "Notional Learning"
+      },
+      {
+        "time": "16:30-17:30",
+        "subject_code": "IC",
+        "activity": "RE Online"
+      }
+    ],
+
+    "friday": [
+      {
+        "time": "08:30-09:30",
+        "subject_code": "WAD"
+      },
+      {
+        "time": "09:30-10:30",
+        "subject_code": "ML"
+      },
+      {
+        "time": "10:30-11:30",
+        "activity": "BREAK"
+      },
+      {
+        "time": "11:30-12:30",
+        "subject_code": "SSIC"
+      },
+      {
+        "time": "12:30-13:30",
+        "subject_code": "SE"
+      },
+      {
+        "time": "13:30-14:30",
+        "subject_code": "ATCD",
+        "activity": "Tutorial"
+      },
+      {
+        "time": "14:30-15:30",
+        "activity": "Notional Learning"
+      },
+      {
+        "time": "15:30-17:30",
+        "activity": "Notional Learning Hours"
+      }
+    ],
+
+    "saturday": [
+      {
+        "time": "08:30-17:30",
+        "activity": "IP / PBL / Co-Curricular / Extra-Curricular / Notional Learning"
+      }
+    ]
+  },
+
+  "assessment_rules": {
+    "internal_40_marks": {
+      "total_marks": 40,
+
+      "components": {
+        "best_of_ise_1_ise_2": {
+          "maximum_marks": 20,
+          "selection_rule": "higher_of_ise_1_and_ise_2"
+        },
+        "ise_3": {
+          "maximum_marks": 10
+        },
+        "ie": {
+          "maximum_marks": 10
+        }
+      },
+
+      "formula": "max(ISE_1, ISE_2) + ISE_3 + IE"
+    },
+
+    "raw_practical_or_tutorial_conversion": {
+      "raw_marks_scale": 100,
+      "activity_count": "variable",
+
+      "average": {
+        "formula": "sum_of_raw_marks / number_of_activities"
+      },
+
+      "official_component_conversion": {
+        "formula": "average_raw_marks * official_component_maximum / 100"
+      },
+
+      "examples": [
+        {
+          "average_raw_marks": 90,
+          "official_component_maximum": 25,
+          "converted_marks": 22.5
+        },
+        {
+          "average_raw_marks": 90,
+          "official_component_maximum": 15,
+          "converted_marks": 13.5
+        },
+        {
+          "average_raw_marks": 90,
+          "official_component_maximum": 10,
+          "converted_marks": 9
+        }
+      ]
+    }
+  },
+
+  "result_blueprint": {
+    "grade_scale": [
+      {
+        "grade": "O",
+        "percentage_range": ">=80",
+        "grade_point": 10
+      },
+      {
+        "grade": "A",
+        "percentage_range": ">=75 and <80",
+        "grade_point": 9
+      },
+      {
+        "grade": "B",
+        "percentage_range": ">=70 and <75",
+        "grade_point": 8
+      },
+      {
+        "grade": "C",
+        "percentage_range": ">=60 and <70",
+        "grade_point": 7
+      },
+      {
+        "grade": "D",
+        "percentage_range": ">=50 and <60",
+        "grade_point": 6
+      },
+      {
+        "grade": "E",
+        "percentage_range": ">=45 and <50",
+        "grade_point": 5
+      },
+      {
+        "grade": "P",
+        "percentage_range": ">=40 and <45",
+        "grade_point": 4
+      },
+      {
+        "grade": "F",
+        "percentage_range": "<40",
+        "grade_point": 0
+      }
+    ],
+
+    "credit_system": {
+      "credit_point": "credits * grade_point",
+      "gpa": "sum_of_credit_points / sum_of_credits"
+    }
+  },
+
+  "subjects": [
+
+    {
+      "subject_id": "sub_ml_501",
+      "code": "ML",
+      "course_code": "PCC-AIML501",
+      "name": "Machine Learning",
+      "credits": 4,
+      "type": "Core",
+      "total_hours": 45,
+
+      "assessment_blueprint": {
+        "internal": {
+          "maximum_marks": 40
+        },
+        "ese": {
+          "maximum_marks": 60
+        },
+        "practical_oral": {
+          "maximum_marks": 25,
+          "raw_marks_scale": 100
+        },
+        "term_work": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 150
+      },
+
+      "modules": [
+        {
+          "module_id": "ml_m1",
+          "name": "Introduction to Machine Learning",
+          "hours": 7,
+          "topics": [
+            {
+              "topic_id": "ml_m1_t1",
+              "name": "History and Overview of Machine Learning"
+            },
+            {
+              "topic_id": "ml_m1_t2",
+              "name": "Artificial Intelligence and Machine Learning"
+            },
+            {
+              "topic_id": "ml_m1_t3",
+              "name": "Supervised Learning"
+            },
+            {
+              "topic_id": "ml_m1_t4",
+              "name": "Unsupervised Learning"
+            },
+            {
+              "topic_id": "ml_m1_t5",
+              "name": "Semi-Supervised Learning"
+            },
+            {
+              "topic_id": "ml_m1_t6",
+              "name": "Reinforcement Learning"
+            },
+            {
+              "topic_id": "ml_m1_t7",
+              "name": "Exploratory Data Analysis"
+            }
+          ]
+        },
+        {
+          "module_id": "ml_m2",
+          "name": "Advanced Feature Engineering and Feature Selection",
+          "hours": 8,
+          "topics": [
+            {
+              "topic_id": "ml_m2_t1",
+              "name": "Feature Engineering"
+            },
+            {
+              "topic_id": "ml_m2_t2",
+              "name": "Feature Transformation"
+            },
+            {
+              "topic_id": "ml_m2_t3",
+              "name": "Feature Selection"
+            },
+            {
+              "topic_id": "ml_m2_t4",
+              "name": "Advanced Feature Selection"
+            },
+            {
+              "topic_id": "ml_m2_t5",
+              "name": "Automated Feature Engineering"
+            },
+            {
+              "topic_id": "ml_m2_t6",
+              "name": "Feature Engineering for Specific Data Types"
+            }
+          ]
+        },
+        {
+          "module_id": "ml_m3",
+          "name": "Supervised Learning",
+          "hours": 8,
+          "topics": [
+            {
+              "topic_id": "ml_m3_t1",
+              "name": "Linear Regression"
+            },
+            {
+              "topic_id": "ml_m3_t2",
+              "name": "Multiple Linear Regression"
+            },
+            {
+              "topic_id": "ml_m3_t3",
+              "name": "Overfitting and Underfitting"
+            },
+            {
+              "topic_id": "ml_m3_t4",
+              "name": "Ridge Regression and Lasso"
+            },
+            {
+              "topic_id": "ml_m3_t5",
+              "name": "Time Series Analysis"
+            },
+            {
+              "topic_id": "ml_m3_t6",
+              "name": "Logistic Regression"
+            },
+            {
+              "topic_id": "ml_m3_t7",
+              "name": "Binary Classification"
+            },
+            {
+              "topic_id": "ml_m3_t8",
+              "name": "Confusion Matrix"
+            },
+            {
+              "topic_id": "ml_m3_t9",
+              "name": "Accuracy"
+            },
+            {
+              "topic_id": "ml_m3_t10",
+              "name": "Bayes Theorem"
+            },
+            {
+              "topic_id": "ml_m3_t11",
+              "name": "Naive Bayes"
+            }
+          ]
+        },
+        {
+          "module_id": "ml_m4",
+          "name": "Unsupervised and Semi-Supervised Learning",
+          "hours": 8,
+          "topics": [
+            {
+              "topic_id": "ml_m4_t1",
+              "name": "K-means"
+            },
+            {
+              "topic_id": "ml_m4_t2",
+              "name": "K-medoids"
+            },
+            {
+              "topic_id": "ml_m4_t3",
+              "name": "Hierarchical Clustering"
+            },
+            {
+              "topic_id": "ml_m4_t4",
+              "name": "DBSCAN"
+            },
+            {
+              "topic_id": "ml_m4_t5",
+              "name": "Gaussian Clustering"
+            },
+            {
+              "topic_id": "ml_m4_t6",
+              "name": "Semi-Supervised Learning"
+            }
+          ]
+        },
+        {
+          "module_id": "ml_m5",
+          "name": "Tree Models",
+          "hours": 8,
+          "topics": [
+            {
+              "topic_id": "ml_m5_t1",
+              "name": "Decision Trees"
+            },
+            {
+              "topic_id": "ml_m5_t2",
+              "name": "Splitting and Homogeneity"
+            },
+            {
+              "topic_id": "ml_m5_t3",
+              "name": "Impurity Measures"
+            },
+            {
+              "topic_id": "ml_m5_t4",
+              "name": "Feature Importance"
+            },
+            {
+              "topic_id": "ml_m5_t5",
+              "name": "Hyperparameter Tuning"
+            },
+            {
+              "topic_id": "ml_m5_t6",
+              "name": "Bagging"
+            },
+            {
+              "topic_id": "ml_m5_t7",
+              "name": "Random Forest"
+            },
+            {
+              "topic_id": "ml_m5_t8",
+              "name": "Boosting"
+            },
+            {
+              "topic_id": "ml_m5_t9",
+              "name": "AdaBoost"
+            }
+          ]
+        },
+        {
+          "module_id": "ml_m6",
+          "name": "Building Machine Learning Applications",
+          "hours": 6,
+          "topics": [
+            {
+              "topic_id": "ml_m6_t1",
+              "name": "NumPy"
+            },
+            {
+              "topic_id": "ml_m6_t2",
+              "name": "Pandas"
+            },
+            {
+              "topic_id": "ml_m6_t3",
+              "name": "Scikit-learn"
+            },
+            {
+              "topic_id": "ml_m6_t4",
+              "name": "End-to-End ML Pipeline"
+            },
+            {
+              "topic_id": "ml_m6_t5",
+              "name": "Deployment"
+            },
+            {
+              "topic_id": "ml_m6_t6",
+              "name": "MLOps"
+            },
+            {
+              "topic_id": "ml_m6_t7",
+              "name": "ML APIs"
+            }
+          ]
+        }
+      ],
+
+      "practicals": [
+        {
+          "practical_id": "ml_prac_01",
+          "number": 1,
+          "title": "Python data visualization, model evaluation libraries and data cleaning"
+        },
+        {
+          "practical_id": "ml_prac_02",
+          "number": 2,
+          "title": "Linear Regression and evaluation"
+        },
+        {
+          "practical_id": "ml_prac_03",
+          "number": 3,
+          "title": "Naive Bayes"
+        },
+        {
+          "practical_id": "ml_prac_04",
+          "number": 4,
+          "title": "Feature Engineering"
+        },
+        {
+          "practical_id": "ml_prac_05",
+          "number": 5,
+          "title": "DBSCAN"
+        },
+        {
+          "practical_id": "ml_prac_06",
+          "number": 6,
+          "title": "K-means"
+        },
+        {
+          "practical_id": "ml_prac_07",
+          "number": 7,
+          "title": "Self-Training or Co-Training"
+        },
+        {
+          "practical_id": "ml_prac_08",
+          "number": 8,
+          "title": "Decision Tree"
+        },
+        {
+          "practical_id": "ml_prac_09",
+          "number": 9,
+          "title": "Machine Learning Case Studies"
+        },
+        {
+          "practical_id": "ml_prac_10",
+          "number": 10,
+          "title": "Machine Learning Mini Project"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_wad_502",
+      "code": "WAD",
+      "course_code": "PCC-AIML502",
+      "name": "Web App Development",
+      "credits": 4,
+      "type": "Core",
+      "total_hours": 45,
+
+      "assessment_blueprint": {
+        "internal": {
+          "maximum_marks": 40
+        },
+        "ese": {
+          "maximum_marks": 60
+        },
+        "practical_oral": {
+          "maximum_marks": 25,
+          "raw_marks_scale": 100
+        },
+        "term_work": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 150
+      },
+
+      "modules": [
+        {
+          "module_id": "wad_m1",
+          "name": "Introduction to Internet",
+          "hours": 7,
+          "topics": [
+            {
+              "topic_id": "wad_m1_t1",
+              "name": "Internet and Web Applications"
+            },
+            {
+              "topic_id": "wad_m1_t2",
+              "name": "JavaScript"
+            },
+            {
+              "topic_id": "wad_m1_t3",
+              "name": "Web Servers"
+            },
+            {
+              "topic_id": "wad_m1_t4",
+              "name": "WebAssembly and Protocols"
+            },
+            {
+              "topic_id": "wad_m1_t5",
+              "name": "HTML5 and CSS3"
+            },
+            {
+              "topic_id": "wad_m1_t6",
+              "name": "AI in Web Development"
+            },
+            {
+              "topic_id": "wad_m1_t7",
+              "name": "Progressive Web Apps"
+            },
+            {
+              "topic_id": "wad_m1_t8",
+              "name": "Edge Computing"
+            },
+            {
+              "topic_id": "wad_m1_t9",
+              "name": "Serverless Computing"
+            }
+          ]
+        },
+        {
+          "module_id": "wad_m2",
+          "name": "Building Web App",
+          "hours": 8,
+          "topics": [
+            {
+              "topic_id": "wad_m2_t1",
+              "name": "NodeJS"
+            },
+            {
+              "topic_id": "wad_m2_t2",
+              "name": "ExpressJS"
+            },
+            {
+              "topic_id": "wad_m2_t3",
+              "name": "Reverse Proxies"
+            },
+            {
+              "topic_id": "wad_m2_t4",
+              "name": "Server-side JavaScript"
+            },
+            {
+              "topic_id": "wad_m2_t5",
+              "name": "Client-side JavaScript"
+            },
+            {
+              "topic_id": "wad_m2_t6",
+              "name": "Modern JavaScript Frameworks"
+            },
+            {
+              "topic_id": "wad_m2_t7",
+              "name": "Next.js"
+            },
+            {
+              "topic_id": "wad_m2_t8",
+              "name": "TypeScript"
+            },
+            {
+              "topic_id": "wad_m2_t9",
+              "name": "React and React Native"
+            },
+            {
+              "topic_id": "wad_m2_t10",
+              "name": "REST and GraphQL"
+            },
+            {
+              "topic_id": "wad_m2_t11",
+              "name": "Swagger/OpenAPI"
+            },
+            {
+              "topic_id": "wad_m2_t12",
+              "name": "CI/CD with GitHub Actions"
+            }
+          ]
+        },
+        {
+          "module_id": "wad_m3",
+          "name": "Connecting Database to Web App",
+          "hours": 8,
+          "topics": [
+            {
+              "topic_id": "wad_m3_t1",
+              "name": "Introduction to Databases"
+            },
+            {
+              "topic_id": "wad_m3_t2",
+              "name": "Data Modelling and Constraints"
+            },
+            {
+              "topic_id": "wad_m3_t3",
+              "name": "SQL"
+            },
+            {
+              "topic_id": "wad_m3_t4",
+              "name": "Database Performance"
+            },
+            {
+              "topic_id": "wad_m3_t5",
+              "name": "Database Security"
+            },
+            {
+              "topic_id": "wad_m3_t6",
+              "name": "Backup and Recovery"
+            },
+            {
+              "topic_id": "wad_m3_t7",
+              "name": "Analytics and Views"
+            },
+            {
+              "topic_id": "wad_m3_t8",
+              "name": "Database Scaling"
+            },
+            {
+              "topic_id": "wad_m3_t9",
+              "name": "Connecting Web App to Database"
+            },
+            {
+              "topic_id": "wad_m3_t10",
+              "name": "SQL Injection"
+            },
+            {
+              "topic_id": "wad_m3_t11",
+              "name": "SQL and NoSQL"
+            },
+            {
+              "topic_id": "wad_m3_t12",
+              "name": "GraphQL"
+            },
+            {
+              "topic_id": "wad_m3_t13",
+              "name": "Vector Databases"
+            },
+            {
+              "topic_id": "wad_m3_t14",
+              "name": "ORM Frameworks"
+            },
+            {
+              "topic_id": "wad_m3_t15",
+              "name": "Connecting AI Models to Databases"
+            }
+          ]
+        },
+        {
+          "module_id": "wad_m4",
+          "name": "Web App Security",
+          "hours": 8
+        },
+        {
+          "module_id": "wad_m5",
+          "name": "Mobile Application Development with Modern Tools",
+          "hours": 8
+        },
+        {
+          "module_id": "wad_m6",
+          "name": "Case Studies",
+          "hours": 6
+        }
+      ],
+
+      "practicals": [
+        {
+          "practical_id": "wad_prac_01",
+          "number": 1,
+          "title": "Web server using JavaScript"
+        },
+        {
+          "practical_id": "wad_prac_02",
+          "number": 2,
+          "title": "Static web application and HTTP requests"
+        },
+        {
+          "practical_id": "wad_prac_03",
+          "number": 3,
+          "title": "NodeJS registration form, MySQL and CRUD"
+        },
+        {
+          "practical_id": "wad_prac_04",
+          "number": 4,
+          "title": "Authentication using Express sessions and password hashing"
+        },
+        {
+          "practical_id": "wad_prac_05",
+          "number": 5,
+          "title": "SQL Injection, XSS and CSRF"
+        },
+        {
+          "practical_id": "wad_prac_06",
+          "number": 6,
+          "title": "CRUD API integration"
+        },
+        {
+          "practical_id": "wad_prac_07",
+          "number": 7,
+          "title": "Android blog app using SQLite"
+        },
+        {
+          "practical_id": "wad_prac_08",
+          "number": 8,
+          "title": "Mobile app consuming REST API"
+        },
+        {
+          "practical_id": "wad_prac_09",
+          "number": 9,
+          "title": "AI-based solution case study"
+        },
+        {
+          "practical_id": "wad_prac_10",
+          "number": 10,
+          "title": "Mini Project"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_se_503",
+      "code": "SE",
+      "course_code": "PCC-AIML503",
+      "name": "Software Engineering",
+      "credits": 4,
+      "type": "Core",
+      "total_hours": 45,
+
+      "assessment_blueprint": {
+        "internal": {
+          "maximum_marks": 40
+        },
+        "ese": {
+          "maximum_marks": 60
+        },
+        "practical_oral": {
+          "maximum_marks": 25,
+          "raw_marks_scale": 100
+        },
+        "term_work": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 150
+      },
+
+      "modules": [
+        {
+          "module_id": "se_m1",
+          "name": "Introduction to Software Engineering",
+          "hours": 7
+        },
+        {
+          "module_id": "se_m2",
+          "name": "Requirement Analysis and Modelling",
+          "hours": 8
+        },
+        {
+          "module_id": "se_m3",
+          "name": "Project Scheduling and Tracking",
+          "hours": 8
+        },
+        {
+          "module_id": "se_m4",
+          "name": "Software Design",
+          "hours": 6
+        },
+        {
+          "module_id": "se_m5",
+          "name": "Software Configuration Management, Quality Assurance and Maintenance",
+          "hours": 8
+        },
+        {
+          "module_id": "se_m6",
+          "name": "Software Testing",
+          "hours": 8
+        }
+      ],
+
+      "practicals": [
+        {
+          "practical_id": "se_prac_01",
+          "number": 1,
+          "title": "Compare software engineering process models"
+        },
+        {
+          "practical_id": "se_prac_02",
+          "number": 2,
+          "title": "SRS document"
+        },
+        {
+          "practical_id": "se_prac_03",
+          "number": 3,
+          "title": "Use Case Diagram"
+        },
+        {
+          "practical_id": "se_prac_04",
+          "number": 4,
+          "title": "DFD up to Level 2"
+        },
+        {
+          "practical_id": "se_prac_05",
+          "number": 5,
+          "title": "Project Schedule"
+        },
+        {
+          "practical_id": "se_prac_06",
+          "number": 6,
+          "title": "COCOMO II"
+        },
+        {
+          "practical_id": "se_prac_07",
+          "number": 7,
+          "title": "Cohesion and Coupling"
+        },
+        {
+          "practical_id": "se_prac_08",
+          "number": 8,
+          "title": "Test Cases and Selenium"
+        },
+        {
+          "practical_id": "se_prac_09",
+          "number": 9,
+          "title": "Testing Tools Case Study"
+        },
+        {
+          "practical_id": "se_prac_10",
+          "number": 10,
+          "title": "Mini Project"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_atcd_501",
+      "code": "ATCD",
+      "course_code": "ESC-AIML501",
+      "name": "Automata Theory and Compiler Design",
+      "credits": 4,
+      "type": "Core",
+      "total_hours": 45,
+
+      "assessment_blueprint": {
+        "internal": {
+          "maximum_marks": 40
+        },
+        "ese": {
+          "maximum_marks": 60
+        },
+        "term_work": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 125
+      },
+
+      "modules": [
+        {
+          "module_id": "atcd_m1",
+          "name": "Introduction",
+          "hours": 7
+        },
+        {
+          "module_id": "atcd_m2",
+          "name": "Regular Expression, Context-free Grammar and Context Free Language",
+          "hours": 8
+        },
+        {
+          "module_id": "atcd_m3",
+          "name": "Pushdown Automata and Turing Machines",
+          "hours": 8
+        },
+        {
+          "module_id": "atcd_m4",
+          "name": "Introduction to Compilers and Parsing",
+          "hours": 8
+        },
+        {
+          "module_id": "atcd_m5",
+          "name": "Compiler Synthesis Phase and Code Optimization",
+          "hours": 8
+        },
+        {
+          "module_id": "atcd_m6",
+          "name": "Assemblers, Linkers and Loaders",
+          "hours": 6
+        }
+      ],
+
+      "tutorials": [
+        {
+          "tutorial_id": "atcd_tut_01",
+          "number": 1,
+          "title": "FSM Design"
+        },
+        {
+          "tutorial_id": "atcd_tut_02",
+          "number": 2,
+          "title": "DFA Construction"
+        },
+        {
+          "tutorial_id": "atcd_tut_03",
+          "number": 3,
+          "title": "NFA and Equivalent DFA"
+        },
+        {
+          "tutorial_id": "atcd_tut_04",
+          "number": 4,
+          "title": "Moore and Mealy Machines"
+        },
+        {
+          "tutorial_id": "atcd_tut_05",
+          "number": 5,
+          "title": "Regular Expressions"
+        },
+        {
+          "tutorial_id": "atcd_tut_06",
+          "number": 6,
+          "title": "CFG, CNF and GNF"
+        },
+        {
+          "tutorial_id": "atcd_tut_07",
+          "number": 7,
+          "title": "PDA"
+        },
+        {
+          "tutorial_id": "atcd_tut_08",
+          "number": 8,
+          "title": "Turing Machines"
+        },
+        {
+          "tutorial_id": "atcd_tut_09",
+          "number": 9,
+          "title": "Predictive Parsing"
+        },
+        {
+          "tutorial_id": "atcd_tut_10",
+          "number": 10,
+          "title": "YACC"
+        },
+        {
+          "tutorial_id": "atcd_tut_11",
+          "number": 11,
+          "title": "Flow Graph"
+        },
+        {
+          "tutorial_id": "atcd_tut_12",
+          "number": 12,
+          "title": "Code Optimization"
+        },
+        {
+          "tutorial_id": "atcd_tut_13",
+          "number": 13,
+          "title": "Lexical Analyzer"
+        },
+        {
+          "tutorial_id": "atcd_tut_14",
+          "number": 14,
+          "title": "LEX / Flex"
+        },
+        {
+          "tutorial_id": "atcd_tut_15",
+          "number": 15,
+          "title": "Program Optimization"
+        },
+        {
+          "tutorial_id": "atcd_tut_16",
+          "number": 16,
+          "title": "Compiler Case Study"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_ssic_501",
+      "code": "SSIC",
+      "course_code": "HSMC-501",
+      "name": "Soft Skills and Interpersonal Communication",
+      "credits": 3,
+      "type": "HSMC",
+      "total_hours": 30,
+
+      "assessment_blueprint": {
+        "internal": {
+          "maximum_marks": 40
+        },
+        "ese": {
+          "maximum_marks": 60
+        },
+        "total_maximum_marks": 100
+      },
+
+      "modules": [
+        {
+          "module_id": "ssic_m1",
+          "name": "Introduction to Soft Skills",
+          "hours": 5
+        },
+        {
+          "module_id": "ssic_m2",
+          "name": "Essential Soft Skills",
+          "hours": 4
+        },
+        {
+          "module_id": "ssic_m3",
+          "name": "Self-Development",
+          "hours": 6
+        },
+        {
+          "module_id": "ssic_m4",
+          "name": "Interpersonal Skills",
+          "hours": 6
+        },
+        {
+          "module_id": "ssic_m5",
+          "name": "Career Development",
+          "hours": 6
+        },
+        {
+          "module_id": "ssic_m6",
+          "name": "Corporate Ethics and Etiquette",
+          "hours": 3
+        }
+      ],
+
+      "practicals": [
+        {
+          "practical_id": "ssic_prac_01",
+          "number": 1,
+          "title": "Soft Skills Conversations"
+        },
+        {
+          "practical_id": "ssic_prac_02",
+          "number": 2,
+          "title": "Situational Conversations"
+        },
+        {
+          "practical_id": "ssic_prac_03",
+          "number": 3,
+          "title": "Integrity and Accountability"
+        },
+        {
+          "practical_id": "ssic_prac_04",
+          "number": 4,
+          "title": "Diversity, Inclusion, Creativity and Innovation"
+        },
+        {
+          "practical_id": "ssic_prac_05",
+          "number": 5,
+          "title": "Self-analysis"
+        },
+        {
+          "practical_id": "ssic_prac_06",
+          "number": 6,
+          "title": "Self-analysis"
+        },
+        {
+          "practical_id": "ssic_prac_07",
+          "number": 7,
+          "title": "Interpersonal Skills Presentation"
+        },
+        {
+          "practical_id": "ssic_prac_08",
+          "number": 8,
+          "title": "Interpersonal Skills Presentation"
+        },
+        {
+          "practical_id": "ssic_prac_09",
+          "number": 9,
+          "title": "Resume / SOP / LOR"
+        },
+        {
+          "practical_id": "ssic_prac_10",
+          "number": 10,
+          "title": "Resume / SOP / LOR"
+        },
+        {
+          "practical_id": "ssic_prac_11",
+          "number": 11,
+          "title": "Netiquette"
+        },
+        {
+          "practical_id": "ssic_prac_12",
+          "number": 12,
+          "title": "Mock Interview"
+        },
+        {
+          "practical_id": "ssic_prac_13",
+          "number": 13,
+          "title": "Mock Interview"
+        },
+        {
+          "practical_id": "ssic_prac_14",
+          "number": 14,
+          "title": "Ethics and Etiquette"
+        },
+        {
+          "practical_id": "ssic_prac_15",
+          "number": 15,
+          "title": "Ethics and Etiquette"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_ic_501",
+      "code": "IC",
+      "course_code": "MC-501",
+      "name": "Indian Constitution",
+      "type": "Mandatory Course",
+
+      "assessment_blueprint": {
+        "term_work": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 25
+      },
+
+      "modules": [
+        {
+          "module_id": "ic_m1",
+          "name": "Constitution – Structure and Principles",
+          "hours": 2
+        },
+        {
+          "module_id": "ic_m2",
+          "name": "Fundamental Rights and Directive Principles",
+          "hours": 2
+        },
+        {
+          "module_id": "ic_m3",
+          "name": "Government of the Union",
+          "hours": 3
+        },
+        {
+          "module_id": "ic_m4",
+          "name": "Government of the States",
+          "hours": 3
+        },
+        {
+          "module_id": "ic_m5",
+          "name": "The Judiciary",
+          "hours": 2
+        },
+        {
+          "module_id": "ic_m6",
+          "name": "Administrative Organization and Constitution",
+          "hours": 3
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_ps_501",
+      "code": "PS-IV",
+      "course_code": "HME-AIMLPS501",
+      "name": "Professional Skills IV - Machine Learning Tools and Technologies",
+      "credits": 1,
+      "type": "Professional Skills",
+
+      "assessment_blueprint": {
+        "practical_oral": {
+          "maximum_marks": 15,
+          "raw_marks_scale": 100
+        },
+        "term_work": {
+          "maximum_marks": 10
+        },
+        "total_maximum_marks": 25
+      },
+
+      "modules": [
+        {
+          "module_id": "ps_m1",
+          "name": "Supervised Learning Algorithms"
+        },
+        {
+          "module_id": "ps_m2",
+          "name": "Unsupervised Learning Algorithms"
+        },
+        {
+          "module_id": "ps_m3",
+          "name": "Advanced Model Selection"
+        },
+        {
+          "module_id": "ps_m4",
+          "name": "Monitoring Model Performance"
+        },
+        {
+          "module_id": "ps_m5",
+          "name": "Model Deployment"
+        },
+        {
+          "module_id": "ps_m6",
+          "name": "Case Study"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_ip_501",
+      "code": "IP",
+      "course_code": "HME-IP501",
+      "name": "Industry Practices III - Employability Skills",
+      "credits": 1,
+      "type": "Industry Practice",
+
+      "assessment_blueprint": {
+        "presentation": {
+          "maximum_marks": 15
+        },
+        "report": {
+          "maximum_marks": 10
+        },
+        "term_work": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 25
+      },
+
+      "aiml_schedule": [
+        {
+          "date": "2026-07-04",
+          "topic": "Introduction to Spring Boot"
+        },
+        {
+          "date": "2026-07-11",
+          "topic": "RESTful APIs"
+        },
+        {
+          "date": "2026-07-18",
+          "topic": "JPA and Hibernate"
+        },
+        {
+          "date": "2026-07-25",
+          "topic": "API Security and JWT"
+        },
+        {
+          "date": "2026-08-01",
+          "topic": "Swagger, Testing and Integration"
+        }
+      ]
+    },
+
+    {
+      "subject_id": "sub_pbl_501",
+      "code": "PBL",
+      "course_code": "HME-PBL501",
+      "name": "Project Based Learning",
+      "credits": 1,
+      "type": "Project Based Learning",
+
+      "assessment_blueprint": {
+        "ia": {
+          "maximum_marks": 15
+        },
+        "presentation": {
+          "maximum_marks": 10
+        },
+        "report": {
+          "maximum_marks": 25
+        },
+        "total_maximum_marks": 25
+      },
+
+      "modules": [
+        {
+          "module_id": "pbl_m1",
+          "name": "INSPIRATION: Explore",
+          "hours": 5
+        },
+        {
+          "module_id": "pbl_m2",
+          "name": "RESEARCH: Empathize and IDEATION",
+          "hours": 5
+        },
+        {
+          "module_id": "pbl_m3",
+          "name": "IMPLEMENTATION: Evolve",
+          "hours": 2
+        },
+        {
+          "module_id": "pbl_m4",
+          "name": "7 Cs for Project Success",
+          "hours": 4
+        },
+        {
+          "module_id": "pbl_m5",
+          "name": "Project Planning",
+          "hours": 4
+        },
+        {
+          "module_id": "pbl_m6",
+          "name": "Implementation, Presentation and Report",
+          "hours": 10
+        }
+      ],
+
+      "schedule": [
+        {
+          "date": "2026-08-08",
+          "module": "Module 1",
+          "activity": "Problem Identification and Need Analysis"
+        },
+        {
+          "date": "2026-08-22",
+          "modules": [
+            "Module 2",
+            "Module 3"
+          ],
+          "activity": "Project Planning & Requirements; Domain Knowledge Exploration"
+        },
+        {
+          "date": "2026-09-12",
+          "module": "Module 4",
+          "activity": "System Design & Prototype Development",
+          "evaluation": "Mid-Term Evaluation Presentation"
+        },
+        {
+          "date": "2026-09-26",
+          "module": "Module 5",
+          "activity": "Testing, Validation & Refinement",
+          "evaluation": "Intra-Department Project Competition"
+        },
+        {
+          "date": "2026-10-03",
+          "module": "Module 6",
+          "activity": "Final Presentation and Interdepartment Competition"
+        },
+        {
+          "date": "2026-10-10",
+          "activity": "Report and Poster First Draft Submission"
+        },
+        {
+          "date": "2026-10-17",
+          "activity": "Final Report and Poster Submission"
+        },
+        {
+          "date": "2026-10-29",
+          "activity": "Term Work Submission"
+        }
+      ]
+    }
+  ],
+
+  "internship": {
+    "course_code": "SI-AIML501",
+    "name": "Summer Internship",
+    "maximum_hours": 160,
+    "maximum_credits": 4,
+    "completion_deadline": "End of Semester 6",
+    "credit_awarded": "End of Semester 6",
+
+    "categories": [
+      "Program Specific Internship",
+      "Interdisciplinary Internship",
+      "Industry Specific Internship",
+      "Interpersonal Internship",
+      "Social Internship",
+      "Academic Internship"
+    ]
+  }
+}

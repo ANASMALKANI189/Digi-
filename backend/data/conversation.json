@@ -1,0 +1,829 @@
+{
+  "conversations": [
+    {
+      "conversation_id": "conv_7c63a2fa",
+      "date": "2026-08-19",
+      "start_time": "20:48:16",
+      "title": "hey myself Sanjay",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_c47f03f3",
+          "client_message_id": "client_1787152679474_a4frb6",
+          "timestamp": "2026-08-19T20:48:16.726070+05:30",
+          "user_message": "hey myself Sanjay",
+          "assistant_response": "Hey Sanjay! Nice to meet you. How can I help you today?"
+        },
+        {
+          "message_id": "msg_36bc4190",
+          "client_message_id": "client_1787152749991_zukm9f",
+          "timestamp": "2026-08-19T20:49:18.303687+05:30",
+          "user_message": "I am working Digiमन",
+          "assistant_response": "That sounds interesting! \n\nJust to make sure I understand correctly, could you tell me a bit more about what **Digiमन** is? \n\nFor example, are you:\n1. **Working on a Digimon-related project** (like a game, fan fiction, digital art, or anime concept)?\n2. **Working with a company/project named \"Digiमन\"** (like a digital marketing agency, tech startup, or Hindi/digital content creation)?\n\nLet me know what you're building or working on, and tell me how I can help you with it (brainstorming, writing code, creating content, design ideas, etc.)!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_5c30d318",
+      "date": "2026-08-19",
+      "start_time": "23:58:14",
+      "title": "what is my name?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_00aebf11",
+          "client_message_id": "client_1787164091586_xktrcz",
+          "timestamp": "2026-08-19T23:58:14.921330+05:30",
+          "user_message": "what is my name?",
+          "assistant_response": "I don't know your name yet! Since I don't have access to your personal information or profile details, you'll have to tell me. What is your name?"
+        },
+        {
+          "message_id": "msg_bb5f9adb",
+          "client_message_id": "client_1787164189687_olq6a1",
+          "timestamp": "2026-08-19T23:59:53.507839+05:30",
+          "user_message": "you know my name",
+          "assistant_response": "Actually, I don't know your name yet! What would you like me to call you?"
+        },
+        {
+          "message_id": "msg_2b0b6260",
+          "client_message_id": "client_1787164217829_p9q1jd",
+          "timestamp": "2026-08-20T00:00:23.536861+05:30",
+          "user_message": "my name is Sanjay",
+          "assistant_response": "Hello Sanjay! It's nice to meet you. How can I help you today?"
+        },
+        {
+          "message_id": "msg_8c3d2ce3",
+          "client_message_id": "client_1787164232314_yn9bjq",
+          "timestamp": "2026-08-20T00:00:37.321263+05:30",
+          "user_message": "now say whats my name?",
+          "assistant_response": "I don't know your name yet! What should I call you?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_dbda8b87",
+      "date": "2026-08-20",
+      "start_time": "00:48:35",
+      "title": "what is my name?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_412484cc",
+          "timestamp": "2026-08-20T00:48:39.749623+05:30",
+          "user_message": "what is my name?",
+          "assistant_response": "Your name is Sanjay! How can I help you today, Sanjay?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_26046267",
+      "date": "2026-08-20",
+      "start_time": "10:44:30",
+      "title": "hi what is my name?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_0404cc79",
+          "timestamp": "2026-08-20T10:44:37.476051+05:30",
+          "user_message": "hi what is my name?",
+          "assistant_response": "Your name is Sanjay! How can I help you today, Sanjay?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_8d324a0e",
+      "date": "2026-08-20",
+      "start_time": "10:46:01",
+      "title": "hey what is my name",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_16c55381",
+          "timestamp": "2026-08-20T10:46:07.139562+05:30",
+          "user_message": "hey what is my name",
+          "assistant_response": "Your name is Sanjay! How can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_de4a4033",
+      "date": "2026-08-20",
+      "start_time": "10:54:45",
+      "title": "hey what is my name?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_b7ebb2d7",
+          "timestamp": "2026-08-20T10:54:53.565267+05:30",
+          "user_message": "hey what is my name?",
+          "assistant_response": "Your name is Sanjay! How can I help you today?"
+        },
+        {
+          "message_id": "msg_054bc7c1",
+          "timestamp": "2026-08-20T10:55:10.255643+05:30",
+          "user_message": "no bro my name is janvi chage it",
+          "assistant_response": "Got it! My apologies for the mix-up, Janvi. \n\nI've got your correct name down now. How can I help you today, Janvi?"
+        },
+        {
+          "message_id": "msg_a3452b7f",
+          "timestamp": "2026-08-20T10:55:24.245809+05:30",
+          "user_message": "now tell me what is my name",
+          "assistant_response": "Your name is Janvi! How can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_ecd63a19",
+      "date": "2026-08-20",
+      "start_time": "10:55:36",
+      "title": "hey what is my name",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_717469d4",
+          "timestamp": "2026-08-20T10:55:40.061084+05:30",
+          "user_message": "hey what is my name",
+          "assistant_response": "Your name is Janvi! How can I help you today?"
+        },
+        {
+          "message_id": "msg_e43059ec",
+          "timestamp": "2026-08-20T10:56:01.952322+05:30",
+          "user_message": "hey what project im currently working on?",
+          "assistant_response": "You mentioned earlier that you are working on **Digiमन**! \n\nYou haven't shared the specific details or what the project is about yet, though. Would you like to tell me more about it so I can help you with it?"
+        },
+        {
+          "message_id": "msg_91885191",
+          "timestamp": "2026-08-20T10:56:31.368853+05:30",
+          "user_message": "sorry bro its very top secret",
+          "assistant_response": "Haha, fair enough, Janvi! Totally respect that. Your secret is safe with me! 🤫\n\nWhenever you need help with anything general—or if you want to brainstorm ideas without giving away the top-secret details—just let me know. How else can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_8bb6d12b",
+      "date": "2026-08-20",
+      "start_time": "10:58:26",
+      "title": "hey tell me whatever u know about me",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_d9f7a759",
+          "timestamp": "2026-08-20T10:58:42.708694+05:30",
+          "user_message": "hey tell me whatever u know about me",
+          "assistant_response": "Here is everything I know about you so far:\n\n* **Your Name:** Janvi\n* **Your Project:** You're working on a project called **Digiमन**—though you mentioned it's top-secret, so the details are strictly classified! 🤫\n\nThat's all you've shared with me so far! Feel free to share more whenever you like, or let me know how I can help you today."
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_3ef51fb6",
+      "date": "2026-08-20",
+      "start_time": "11:59:07",
+      "title": "WAD ke first practical mein mujhe 97 marks mile out of 100",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_736abae0",
+          "timestamp": "2026-08-20T11:59:32.730680+05:30",
+          "user_message": "WAD ke first practical mein mujhe 97 marks mile out of 100",
+          "assistant_response": "Awesome job, Janvi! 97 out of 100 is great. I have recorded your marks for WAD Practical 1 in your academic record."
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_a72cfa84",
+      "date": "2026-08-20",
+      "start_time": "12:01:07",
+      "title": "WAD practical 1 mein mere kitne marks aaye the?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_b4de1195",
+          "timestamp": "2026-08-20T12:01:13.304970+05:30",
+          "user_message": "WAD practical 1 mein mere kitne marks aaye the?",
+          "assistant_response": "WAD Practical 1 mein aapko 97 out of 100 marks mile the, Janvi!"
+        },
+        {
+          "message_id": "msg_903a6d1c",
+          "timestamp": "2026-08-20T12:02:28.900984+05:30",
+          "user_message": "merko bata sem 5 mei kitne subjects hai sabka list de and categorise ker jisa ese dena hai and jiska nahi dena hai",
+          "assistant_response": "Janvi, aapke Semester 5 me total 9 subjects hain. Unki categorization ESE (End Semester Exam) ke according ye hai:\n\n**1. Subjects jinka ESE dena hai (5 Subjects):**\n- ML (Machine Learning)\n- WAD (Web Application Development)\n- SE (Software Engineering)\n- ATCD (Automata Theory & Compiler Design)\n- SSIC\n\n**2. Subjects jinka ESE nahi dena hai (4 Subjects):**\n- IC\n- PS-IV (Professional Skills-IV)\n- IP\n- PBL (Project Based Learning)"
+        },
+        {
+          "message_id": "msg_486a46e8",
+          "timestamp": "2026-08-20T12:03:14.979263+05:30",
+          "user_message": "mere ise kab hai? and ise se ese mei kitna time bacha hai?",
+          "assistant_response": "Janvi, aapke academic record me abhi ISE aur ESE exams ki dates (schedule) saved nahi hain. Agar aap mujhe dates bata dengi, toh main unhe update kar dunga aur aapko dono ke beech ka exact time frame bhi bata dunga!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_563dbeca",
+      "date": "2026-08-20",
+      "start_time": "12:56:55",
+      "title": "hey wasupp",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_8189026c",
+          "timestamp": "2026-08-20T12:57:05.360516+05:30",
+          "user_message": "hey wasupp",
+          "assistant_response": "Hey Janvi! Everything's good on my end. How are you doing today? What's on your mind?"
+        },
+        {
+          "message_id": "msg_fe088b92",
+          "timestamp": "2026-08-20T12:57:46.772758+05:30",
+          "user_message": "merko ye bata mera abhi is week ka kya schedule hai?",
+          "assistant_response": "Janvi, aapka is week ka schedule mere paas abhi saved nahi hai. Agar aap mujhe apna time-table ya is week ka schedule bata dengi, toh main use record kar lunga taaki aage aap jab bhi puchein, main aapko bata sakoon!"
+        },
+        {
+          "message_id": "msg_d1981866",
+          "timestamp": "2026-08-20T12:58:29.001656+05:30",
+          "user_message": "i mean ki mere academic ka ye week ka schedule bata",
+          "assistant_response": "Janvi, aapka academic weekly schedule abhi mere paas saved nahi hai. Agar aap mujhe apna timetable ya is week ki classes aur schedule bata dengi, toh main use save kar lunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        },
+        {
+          "message_id": "msg_0fbddf73",
+          "timestamp": "2026-08-20T12:59:05.181093+05:30",
+          "user_message": "bro mere ise and ese kab hai?dates?",
+          "assistant_response": "Janvi, aapke ISE aur ESE exams ki dates abhi mere paas saved nahi hain. Agar aapko schedule ya dates pata hain, toh mujhe bata dijiye, main unhe record kar dunga!"
+        },
+        {
+          "message_id": "msg_56712d52",
+          "timestamp": "2026-08-20T13:13:35.774283+05:30",
+          "user_message": "1mere WAD practical 1 mein kitne marks aaye?",
+          "assistant_response": "Janvi, aapke WAD Practical 1 mein 97 out of 100 marks aaye hain!"
+        },
+        {
+          "message_id": "msg_c7f89bdc",
+          "timestamp": "2026-08-20T13:14:15.910114+05:30",
+          "user_message": "mere WAD ISE kab hai?",
+          "assistant_response": "Janvi, aapke WAD ISE ki dates abhi mere paas saved nahi hain. Agar aapko date pata hai, toh mujhe bata dijiye, main use save kar dunga!"
+        },
+        {
+          "message_id": "msg_32f61cef",
+          "timestamp": "2026-08-20T13:14:47.546519+05:30",
+          "user_message": "mere ISE aur ESE kab hain?",
+          "assistant_response": "Janvi, aapke ISE aur ESE exams ki dates abhi mere paas saved nahi hain. \n\nAgar aapko unki dates pata hain, toh mujhe bata dijiye, main unhe save kar dunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_467a2106",
+      "date": "2026-08-20",
+      "start_time": "13:15:40",
+      "title": "mere ISE aur ESE kab hain?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_2107879d",
+          "timestamp": "2026-08-20T13:16:02.196391+05:30",
+          "user_message": "mere ISE aur ESE kab hain?",
+          "assistant_response": "Janvi, aapke ISE aur ESE exams ki dates abhi mere paas saved nahi hain. \n\nAgar aapko unki dates pata hain, toh mujhe bata dijiye, main unhe record kar dunga taaki aage jab bhi aap puchein, main aapko bata sakoon!"
+        },
+        {
+          "message_id": "msg_388f5344",
+          "timestamp": "2026-08-20T13:17:09.324154+05:30",
+          "user_message": "mere wad ke practical mei kitne marks aaye?",
+          "assistant_response": "Janvi, aapke WAD Practical 1 mein 97 out of 100 marks aaye hain!"
+        },
+        {
+          "message_id": "msg_94962991",
+          "timestamp": "2026-08-20T13:17:34.154976+05:30",
+          "user_message": "practical 2 mei?",
+          "assistant_response": "Janvi, WAD Practical 2 ke marks abhi mere paas saved nahi hain. Agar aapko unke marks mil gaye hain, toh mujhe bata dijiye, main unhe record kar dunga!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_5799fb80",
+      "date": "2026-08-20",
+      "start_time": "13:21:49",
+      "title": "mere ISE aur ESE kab hain?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_be83cfe5",
+          "timestamp": "2026-08-20T13:22:09.076186+05:30",
+          "user_message": "mere ISE aur ESE kab hain?",
+          "assistant_response": "Janvi, aapke ISE aur ESE exams ki dates abhi mere paas saved nahi hain. \n\nAgar aapko unki dates pata hain, toh mujhe bata dijiye, main unhe record kar dunga taaki aage jab bhi aap puchein, main aapko bata sakoon!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_b213d069",
+      "date": "2026-08-20",
+      "start_time": "13:23:41",
+      "title": "mere ISE aur ESE kab hain?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_0c1369c7",
+          "timestamp": "2026-08-20T13:24:25.677308+05:30",
+          "user_message": "mere ISE aur ESE kab hain?",
+          "assistant_response": "Janvi, aapke ISE aur ESE exams ki dates abhi mere paas saved nahi hain. Agar aapko unki dates pata hain, toh mujhe bata dijiye, main unhe record kar dunga!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_d88c72b2",
+      "date": "2026-08-20",
+      "start_time": "13:39:16",
+      "title": "hey mere ise and ese kab hai?",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_24612238",
+          "timestamp": "2026-08-20T13:39:41.352840+05:30",
+          "user_message": "hey mere ise and ese kab hai?",
+          "assistant_response": "Aapke academic calendar ke according exam dates ye hain:\n\n- **ISE-1:** 1 September 2026\n- **ISE-2:** 12 October 2026\n- **ESE (End Semester Exam):** Last instructional day (28 October 2026) ke baad ESE Oral/Practical aur End Semester Exams honge (Semester end date: 28 November 2026)."
+        },
+        {
+          "message_id": "msg_f7d1786e",
+          "timestamp": "2026-08-20T13:41:50.690452+05:30",
+          "user_message": "aaj ki date kya hai?",
+          "assistant_response": "Aaj ki date **20 August 2026** hai."
+        },
+        {
+          "message_id": "msg_80e66f0a",
+          "timestamp": "2026-08-20T13:42:43.347267+05:30",
+          "user_message": "toh ye bata mere ise mei kitne din baki hai?",
+          "assistant_response": "Janvi, aaj 20 August 2026 hai, toh:\n\n- **ISE-1 (1 September 2026):** Aapke paas abhi **12 din** baki hain.\n- **ISE-2 (12 October 2026):** Iske liye abhi **53 din** baki hain."
+        },
+        {
+          "message_id": "msg_2466e4f3",
+          "timestamp": "2026-08-20T13:43:47.544288+05:30",
+          "user_message": "umm thike ye bata ganpati ke liye holidays hai? hai toh kitne and kab tak? and exacty days of the week bhi batna",
+          "assistant_response": "Haan Janvi, Ganpati Festival ke liye holidays hain!\n\n- **Total Holidays:** 5 din\n- **Dates:** 15 September 2026 se 19 September 2026 tak\n- **Days of the week:** Tuesday (Tuesday) se Saturday (Saturday) tak (Tuesday, Wednesday, Thursday, Friday, aur Saturday)."
+        },
+        {
+          "message_id": "msg_5fcb1b77",
+          "timestamp": "2026-08-20T13:44:52.160496+05:30",
+          "user_message": "merko ye bata mere wad ke practicals mei kitne marks aaye the?",
+          "assistant_response": "Janvi, aapke WAD ke practicals mein abhi tak sirf **Practical 1** ke marks saved hain, jisme aapko **97 out of 100** marks mile the. \n\nBaki practicals ke marks abhi recorded nahi hain. Agar aapko unke marks mil gaye hain, toh bata dijiye, main save kar dunga!"
+        },
+        {
+          "message_id": "msg_8d0f4e3f",
+          "timestamp": "2026-08-20T13:45:23.151510+05:30",
+          "user_message": "aur practical 2 mei? usmei kitne hai?",
+          "assistant_response": "Janvi, WAD Practical 2 ke marks abhi recorded nahi hain. \n\nAgar aapko unke marks mil gaye hain, toh bata dijiye, main unhe save kar dunga!"
+        },
+        {
+          "message_id": "msg_1fb6f2ce",
+          "timestamp": "2026-08-20T13:47:35.995734+05:30",
+          "user_message": "acha thike 2nd practical mei wad ke merko 95 marks aye the",
+          "assistant_response": "Bahut badhiya, Janvi! 95 out of 100 zordar score hai! 🎉 \n\nMaine aapke WAD Practical 2 ke marks record mein save kar liye hain."
+        },
+        {
+          "message_id": "msg_832c5e9c",
+          "timestamp": "2026-08-20T13:50:17.685765+05:30",
+          "user_message": "merko ye bata if mere sare 10 practicals mei aise hi marks aaye toh fir merko out of 25 kitne marks milenge at the end of the sem?",
+          "assistant_response": "Janvi, aapke abhi tak ke WAD practicals ke marks:\n- **Practical 1:** 97/100\n- **Practical 2:** 95/100\n\nInka average **96 out of 100** banta hai. \n\nAgar aapke baaki saare practicals mein bhi isi tarah ki performance rahi aur average **96** rehta hai, toh 25 mein conversion formula ye hota hai:\n\n$$\\text{Converted Marks} = \\frac{\\text{Average Raw Marks} \\times 25}{100}$$\n\n$$\\text{Converted Marks} = \\frac{96 \\times 25}{100} = \\mathbf{24}$$\n\nToh end of the semester mein aapko **out of 25 total 24 marks** milenge! Ye ek dam top score hai, super job! 🎉"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_e13fed93",
+      "date": "2026-08-20",
+      "start_time": "14:11:59",
+      "title": "hey mere wad practicals mei current data ke according end mei merko out of 25 kinte marks milenge",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_28349f44",
+          "timestamp": "2026-08-20T14:12:09.313832+05:30",
+          "user_message": "hey mere wad practicals mei current data ke according end mei merko out of 25 kinte marks milenge",
+          "assistant_response": "Janvi, aapke abhi tak ke recorded WAD practicals ke data ke according:\n\n- **Practical 1:** 97 / 100\n- **Practical 2:** 95 / 100\n\nAapka current raw average **96 out of 100** hai.\n\nIs average ke basis par 25 me conversion formula:\n\n$$\\text{Converted Marks} = \\frac{\\text{Average Raw Marks} \\times 25}{100}$$\n\n$$\\text{Converted Marks} = \\frac{96 \\times 25}{100} = \\mathbf{24}$$\n\nToh current data ke according aapko end mei **25 me se 24 marks** milenge! Great job! 🎉"
+        },
+        {
+          "message_id": "msg_e29d6f4e",
+          "timestamp": "2026-08-20T14:19:38.203302+05:30",
+          "user_message": "bro merko actually practical 2 mei wad ke 98 marks aaye hai update kerde",
+          "assistant_response": "Done Janvi! Maine aapke WAD Practical 2 ke marks update karke **98 out of 100** save kar liye hain. \n\nWaah, 98 marks! Bohat hi badhiya performance! 🎉"
+        },
+        {
+          "message_id": "msg_2eeac7ad",
+          "timestamp": "2026-08-20T14:23:24.172501+05:30",
+          "user_message": "bro maine aaj 40 mins workout kiya jimsei maine 30 pushups ke 3 set mare and 100 squats 100 situps and 200 jacks and aaj ke din mei abhi tak 5k steps still recording",
+          "assistant_response": "Sahi hai bhai! Aaj toh tune ekdam zabardust workout session kiya hai! 🔥\n\n- **Time:** 40 mins\n- **Pushups:** 30 reps ke 3 sets (Total 90 pushups!)\n- **Squats:** 100\n- **Situps:** 100\n- **Jumping Jacks:** 200\n- **Steps:** 5k+ (recording ongoing)\n\nBohat hi solid performance aur high energy hai. Aise hi consistency banaye rakh! 💪 Tune aaj ka fitness goal ekdam badhiya se hit kiya hai."
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_52458d11",
+      "date": "2026-08-20",
+      "start_time": "15:12:43",
+      "title": "1. meri height 175 cm hai",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_2097de15",
+          "timestamp": "2026-08-20T15:13:00.644640+05:30",
+          "user_message": "1. meri height 175 cm hai",
+          "assistant_response": "Got it, Janvi! Maine aapki height **175 cm** record kar li hai. 👍"
+        },
+        {
+          "message_id": "msg_b51132d4",
+          "timestamp": "2026-08-20T15:14:11.484904+05:30",
+          "user_message": "2. aaj mera weight 72.5 kg hai",
+          "assistant_response": "Got it, Janvi! Maine aapka weight **72.5 kg** aaj ke record mein save kar liya hai. 👍"
+        },
+        {
+          "message_id": "msg_4acffce9",
+          "timestamp": "2026-08-20T15:14:39.000887+05:30",
+          "user_message": "subah maine 1 litre paani piya",
+          "assistant_response": "Sahi hai, Janvi! Maine aapka **1 litre (1000 ml)** paani ka intake aaj ke record mein save kar liya hai. Hydrated raho! 💧"
+        },
+        {
+          "message_id": "msg_631491dc",
+          "timestamp": "2026-08-20T15:15:24.499559+05:30",
+          "user_message": "breakfast mein 3 eggs aur 2 bread khaye",
+          "assistant_response": "Great, Janvi! Maine aapka breakfast record kar liya hai:\n\n- **3 Eggs:** ~210 calories\n- **2 Slices Bread:** ~140 calories\n- **Total Estimated Calories:** ~350 kcal\n\nAaj ke din ka aacha aur healthy start! 🍳🍞"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_40d0813c",
+      "date": "2026-08-20",
+      "start_time": "15:17:26",
+      "title": "hi meri height 5'1 hai",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_af00796a",
+          "timestamp": "2026-08-20T15:17:53.614309+05:30",
+          "user_message": "hi meri height 5'1 hai",
+          "assistant_response": "Got it, Janvi! Maine aapki height **5'1\" (154.94 cm)** record kar li hai. 👍"
+        },
+        {
+          "message_id": "msg_5dd45592",
+          "timestamp": "2026-08-20T15:18:05.272942+05:30",
+          "user_message": "weight 57 kgs aaaj subha ka",
+          "assistant_response": "Got it, Janvi! Maine aapka aaj subah ka weight **57 kg** record kar liya hai. 👍"
+        },
+        {
+          "message_id": "msg_759f61fb",
+          "timestamp": "2026-08-20T15:19:12.345623+05:30",
+          "user_message": "subha mai 1 glass pani piya approx 500ml",
+          "assistant_response": "Sahi hai, Janvi! Maine aapka subah ka 1 glass paani (approx 500 ml) record kar liya hai. Hydrated raho! 💧"
+        },
+        {
+          "message_id": "msg_f99d895c",
+          "timestamp": "2026-08-20T15:20:35.901514+05:30",
+          "user_message": "nashte mei 1 bowl oats aur 1 banana",
+          "assistant_response": "Great, Janvi! Maine aapka nashta record kar liya hai:\n\n- **1 bowl Oats:** ~150 kcal\n- **1 Banana:** ~105 kcal\n- **Total Estimated Calories:** ~255 kcal\n\nBohat hi healthy start! 🥣🍌"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_7f73657f",
+      "date": "2026-08-20",
+      "start_time": "15:24:16",
+      "title": "aaj ke din ka update de mere bare mei",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_6d887e2d",
+          "timestamp": "2026-08-20T15:24:38.824586+05:30",
+          "user_message": "aaj ke din ka update de mere bare mei",
+          "assistant_response": "Janvi, aaj (**20 August 2026**) ka aapka health aur activity update ye hai:\n\n* **Body Measurements:**\n  * **Weight:** 57 kg\n  * **Height:** 5'1\" (154.94 cm)\n\n* **Hydration (Paani):**\n  * **Total Intake:** 500 ml (1 glass subah)\n\n* **Nutrition (Khaana):**\n  * **Breakfast:** 1 bowl Oats + 1 Banana (~255 kcal estimated)\n\n* **Activity & Steps:**\n  * **Steps:** 3,000 steps (approx. 1.93 km)\n\nAgar aapne aaj kuch aur meals, paani, ya workout update karna hai, toh mujhe bata do!"
+        },
+        {
+          "message_id": "msg_6671b156",
+          "timestamp": "2026-08-20T15:25:42.503640+05:30",
+          "user_message": "mere aaj konse konse lectures hai?",
+          "assistant_response": "Janvi, aapka aaj ka lecture schedule ya timetable mere paas abhi saved nahi hai. \n\nAgar aap mujhe apna class timetable bata dengi, toh main use save kar lunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_c8a28a5b",
+      "date": "2026-08-20",
+      "start_time": "16:00:00",
+      "title": "hi",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_348214bc",
+          "timestamp": "2026-08-20T16:00:14.458302+05:30",
+          "user_message": "hi",
+          "assistant_response": "Hey Janvi! How can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_03a3200a",
+      "date": "2026-08-20",
+      "start_time": "16:31:34",
+      "title": "hi",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_7e06b6bf",
+          "timestamp": "2026-08-20T16:31:44.583364+05:30",
+          "user_message": "hi",
+          "assistant_response": "Hey Janvi! How can I help you today?"
+        },
+        {
+          "message_id": "msg_a8fa70ec",
+          "timestamp": "2026-08-20T16:42:29.122154+05:30",
+          "user_message": "hi",
+          "assistant_response": "Hey Janvi! How can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_63e74a6a",
+      "date": "2026-08-20",
+      "start_time": "16:43:30",
+      "title": "I spent ₹250 on lunch",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_68a88517",
+          "timestamp": "2026-08-20T16:43:46.454201+05:30",
+          "user_message": "I spent ₹250 on lunch",
+          "assistant_response": "Got it, Janvi! I have recorded your expense of ₹250 for lunch. \n\n**Today's Expense Summary (20 August 2026):**\n* **Category:** Food (Lunch)\n* **Amount:** ₹250\n* **Total Spent Today:** ₹250"
+        },
+        {
+          "message_id": "msg_904aebef",
+          "timestamp": "2026-08-20T16:44:27.051300+05:30",
+          "user_message": "I drank 1 litre water",
+          "assistant_response": "Got it, Janvi! I've recorded your **1 litre (1,000 ml)** water intake. \n\n**Today's Hydration Summary (20 August 2026):**\n* **Latest Intake:** 1,000 ml\n* **Total Water Intake Today:** 1,500 ml (1.5 litres)\n\nKeep staying hydrated! 💧"
+        },
+        {
+          "message_id": "msg_fbff6443",
+          "timestamp": "2026-08-20T16:46:46.587329+05:30",
+          "user_message": "I feel really happy today",
+          "assistant_response": "That's awesome to hear, Janvi! 😊 I've recorded that you're feeling happy today. \n\nHope you have a wonderful rest of your day!"
+        },
+        {
+          "message_id": "msg_c75868e4",
+          "timestamp": "2026-08-20T16:55:32.890794+05:30",
+          "user_message": "Mere is semester mein kaun kaunse subjects hain? and mera ise and ese kab hai?",
+          "assistant_response": "Janvi, aapke Semester 5 (B.Tech AI & ML) mein total **9 subjects** hain:\n\n### **Subjects List:**\n1. **ML** (Machine Learning)\n2. **WAD** (Web Application Development)\n3. **SE** (Software Engineering)\n4. **ATCD** (Automata Theory & Compiler Design)\n5. **SSIC**\n6. **IC**\n7. **PS-IV** (Professional Skills-IV)\n8. **IP**\n9. **PBL** (Project Based Learning)\n\n---\n\n### **ISE aur ESE Exam Dates:**\n* **ISE-1:** 1 September 2026\n* **ISE-2:** 12 October 2026\n* **ESE (End Semester Exam):** 28 October 2026 (last instructional day) ke baad oral/practical aur ESE start honge (Semester end date: 28 November 2026)."
+        },
+        {
+          "message_id": "msg_d286f3c3",
+          "timestamp": "2026-08-20T17:00:05.729254+05:30",
+          "user_message": "Bro aaj ka pura din ka update save kar le aur har information ko uske relevant section mein store karna.  Aaj 20 August 2026 ko subah 7:00 baje mera weight 72 kg tha aur meri height 175 cm hai. Subah uthkar maine 1 litre paani piya. Breakfast mein maine 3 eggs, 2 bread slices aur 1 banana khaya. Breakfast ke baad maine 30 minutes ka workout kiya jisme 3 sets pushups kiye, har set mein 20 reps, 80 squats, 40 lunges aur 100 jumping jacks kiye.  Uske baad college jaate waqt mere 3500 steps hue. Dopahar tak maine 1.5 litre aur paani piya. Lunch mein maine 2 roti, 1 bowl dal aur 1 bowl rice khaya. Lunch ke liye maine ₹180 spend kiye.  Dopahar ke baad college se wapas aate waqt 4500 aur steps hue. Shaam ko 6:30 baje maine 45 minutes ka second workout session kiya. Is session mein maine 50 crunches, 30 burpees, 20 pushups aur 100 jumping jacks kiye.  Workout ke baad maine 1 litre paani aur piya. Shaam ko snack mein ek apple aur ek cup chai li. Uske liye ₹80 spend kiye. Raat ke dinner mein maine 2 roti, paneer ki ek serving aur salad khaya aur dinner ke liye ₹250 spend kiye.  Aaj mujhe total ₹500 pocket money/income mila tha. Isme se college travel ke liye ₹100, lunch ke liye ₹180, snacks ke liye ₹80 aur dinner ke liye ₹250 spend kiye.  Aaj mera mood subah motivated aur energetic tha, afternoon mein thoda stressed tha because of college work, aur evening mein workout ke baad relaxed aur happy feel hua. Overall aaj ka mood good tha aur energy level medium-to-high raha.  Aaj maine meditation 15 minutes complete kiya, workout complete kiya aur 30 minutes PostgreSQL padha. Main PostgreSQL ke storage ke baare mein seekha ki data internally pages/tuples jaise storage structures mein manage hota hai aur indexes data retrieval ko efficient banane mein help karte hain. Maine ye bhi seekha ki RAG system relevant stored information retrieve karke AI ko context provide kar sakta hai.  Aaj ka final step count 8000 tha. Pura din total 3.5 litre paani piya. Aaj ke dono workout sessions ko separate sessions ke roop mein timestamp aur duration ke saath store karna. Food entries ko calories estimate karne ke liye use karna aur aaj ka total calorie intake calculate karke store karna. Steps ke basis par distance automatically calculate karna. Aaj ke expenses, income aur remaining balance calculate karke finance mein store karna. Mood ke different observations ko ek hi mood mein overwrite mat karna, unhe timestamps ke saath preserve karna. Aur jo habits complete hui hain unhe aaj ke date ke against mark karna. Is poore update ko future retrieval ke liye save kar.",
+          "assistant_response": "Aapka aaj (**20 August 2026**) ka pura din ka update safaltapurvak save kar liya gaya hai! Har information ko uske relevant section mein alag-alag record kar diya gaya hai. \n\nYahan aapke aaj ke din ki complete summary hai:\n\n---\n\n### 🏋️‍♂️ **Body, Health & Fitness**\n* **Body Measurements:** Height: 175 cm | Weight: 72 kg (subah 7:00 AM)\n* **Water Intake:** Total 3.5 Litres (3,500 ml)\n  * Subah: 1 Litre\n  * Dopahar: 1.5 Litres\n  * Shaam: 1 Litre\n* **Steps & Distance:** 8,000 steps (Approx. 5.81 km)\n* **Workouts (2 Separate Sessions):**\n  * **Session 1 (Morning - 30 mins):** 3 sets pushups (20 reps each), 80 squats, 40 lunges, 100 jumping jacks\n  * **Session 2 (Evening 6:30 PM - 45 mins):** 50 crunches, 30 burpees, 20 pushups, 100 jumping jacks\n* **Nutrition:**\n  * **Breakfast:** 3 eggs, 2 bread slices, 1 banana\n  * **Lunch:** 2 roti, 1 bowl dal, 1 bowl rice\n  * **Snack:** 1 apple, 1 cup chai\n  * **Dinner:** 2 roti, 1 serving paneer, salad\n  *(Sabhi food entries ke estimated calories calculate karke save kar liye gaye hain).*\n\n---\n\n### 💰 **Finance**\n* **Income / Pocket Money:** ₹500\n* **Expenses Spent:** Total ₹610\n  * College Travel: ₹100\n  * Lunch: ₹180\n  * Evening Snack: ₹80\n  * Dinner: ₹250\n* **Net Balance:** -₹110 (₹500 income − ₹610 total expenses)\n\n---\n\n### 🧠 **Mind & Mood**\n* **Mood Logs (Timestamps preserved):**\n  * **Morning:** Motivated & energetic\n  * **Afternoon:** Stressed (due to college work)\n  * **Evening:** Relaxed & happy (post-workout)\n* **Overall Day Mood:** Good\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Completed**\n* **Meditation:** 15 mins (Done)\n* **Workout:** Completed (Done)\n* **Reading/Study:** 30 mins (Done)\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL:** Internal data storage structures (pages and tuples) aur data retrieval ko efficient banane ke liye indexing.\n* **RAG System:** Relevant stored information retrieve karke AI ko context provide karne ki working.\n\n---\n\nAapka poora din bahut hi productive raha! Sabhi records future retrieval ke liye safe hain. 👍"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_910a2b16",
+      "date": "2026-08-20",
+      "start_time": "17:01:12",
+      "title": "20th august ka pura data de mera",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_80259a6e",
+          "timestamp": "2026-08-20T17:01:41.715621+05:30",
+          "user_message": "20th august ka pura data de mera",
+          "assistant_response": "Janvi, 20 August 2026 ka aapka saara recorded data ye raha:\n\n---\n\n### 🏋️ **Body, Health & Fitness**\n* **Body Measurements:** \n  * Height: 175 cm\n  * Weight: 72 kg\n* **Water Intake:** 5,000 ml (5 Litres)\n* **Steps & Distance:** 8,000 steps (Approx. 5.81 km estimated)\n* **Workouts (2 Sessions - Total 75 mins):**\n  * **Session 1 (30 mins):** Pushups (3 sets of 20 reps), 80 Squats, 40 Lunges, 100 Jumping Jacks\n  * **Session 2 (45 mins):** 50 Crunches, 30 Burpees, 20 Pushups, 100 Jumping Jacks\n* **Nutrition:** \n  * 1 bowl Oats + 1 Banana (Estimated ~255 kcal)\n\n---\n\n### 💰 **Finance**\n* **Income:** ₹500 (Pocket money)\n* **Total Expenses:** ₹860\n  * College travel: ₹100\n  * Lunch: ₹250 + ₹180\n  * Evening snack: ₹80\n  * Dinner: ₹250\n* **Net Balance:** -₹360\n\n---\n\n### 🧠 **Mind & Mood**\n* **Mood:** Happy\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Completed**\n* Morning Meditation\n* Meditation\n* Workout\n* Reading/Study\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL (Data Storage):** Learned how PostgreSQL stores data internally.\n\n---\n\n### 🎓 **Academic Updates**\n* **WAD Practical 1:** 97 / 100\n* **WAD Practical 2:** 98 / 100"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_909fcc1f",
+      "date": "2026-08-20",
+      "start_time": "17:14:00",
+      "title": "hi what is my updates so far about today",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_0c97e625",
+          "timestamp": "2026-08-20T17:14:20.231475+05:30",
+          "user_message": "hi what is my updates so far about today",
+          "assistant_response": "Here is a summary of all your updates recorded so far for today (**20 August 2026**):\n\n---\n\n### 🏋️ **Body, Fitness & Health**\n* **Body Measurements:** Height: 175 cm | Weight: 72 kg\n* **Hydration:** 5,000 ml (5 Litres)\n* **Activity & Steps:** 8,000 steps (Approx. 5.81 km estimated)\n* **Workouts (2 Sessions - 75 mins total):**\n  * **Session 1 (30 mins):** Pushups (3 sets of 20 reps), 80 Squats, 40 Lunges, 100 Jumping Jacks\n  * **Session 2 (45 mins):** 50 Crunches, 30 Burpees, 20 Pushups, 100 Jumping Jacks\n* **Nutrition:** Oats (1 bowl) + 1 Banana (Estimated ~255 kcal)\n\n---\n\n### 💰 **Finance**\n* **Income:** ₹500\n* **Total Expenses:** ₹860\n  * College Travel: ₹100\n  * Lunch: ₹250 + ₹180\n  * Evening Snack: ₹80\n  * Dinner: ₹250\n* **Net Balance:** -₹360\n\n---\n\n### 🧠 **Mind & Mood**\n* **Mood:** Happy\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Completed**\n* Morning Meditation\n* Meditation\n* Workout\n* Reading / Study\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL:** Learned about PostgreSQL internal data storage.\n\n---\n\nLet me know if you want to add or update anything else for today!"
+        },
+        {
+          "message_id": "msg_037dbed9",
+          "timestamp": "2026-08-20T17:15:52.389093+05:30",
+          "user_message": "when i my ese examination and how much days are left from today",
+          "assistant_response": "Your **ESE (End Semester Exams)** are scheduled to begin after the last instructional day on **28 October 2026** (with oral/practical exams followed by written exams up to the semester end date on **28 November 2026**).\n\n### **Days Left from Today (20 August 2026):**\n* **Until Last Instructional Day / ESE Start (28 October 2026):** **69 days** left.\n\n*(Note: Exact subject-wise exam timetable dates will be updated once released by your institute).*"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_4f7c91cf",
+      "date": "2026-08-20",
+      "start_time": "17:30:31",
+      "title": "show me academic calendar",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_0343526e",
+          "timestamp": "2026-08-20T17:31:27.843887+05:30",
+          "user_message": "show me academic calendar",
+          "assistant_response": "Here is the **Academic Calendar** information recorded for Semester 5 (2026–2027):\n\n---\n\n### 🎓 **Student Details**\n* **Program:** B.Tech Artificial Intelligence and Machine Learning  \n* **Semester:** 5  \n* **Academic Year:** 2026–2027  \n\n---\n\n### 📅 **Key Exam Dates**\n* **ISE-1:** 1 September 2026  \n* **ISE-2:** 12 October 2026  \n* **Last Instructional Day:** 28 October 2026  \n* **ESE (Oral/Practical & End Semester Exams):** Starts after 28 October 2026  \n* **Semester End Date:** 28 November 2026  \n\n---\n\n### 🎉 **Holidays & Breaks**\n* **Ganpati Festival Holidays:** 15 September 2026 – 19 September 2026 (Tuesday to Saturday — 5 days)\n\n---\n\n*(Note: If you have detailed daily lecture timetables or subject-wise exam dates, share them with me and I will add them to your calendar!)*"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_ac73623a",
+      "date": "2026-08-21",
+      "start_time": "12:52:37",
+      "title": "hey",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_1eead419",
+          "timestamp": "2026-08-21T12:53:22.595036+05:30",
+          "user_message": "hey",
+          "assistant_response": "Hey Janvi! How can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_d8438234",
+      "date": "2026-08-21",
+      "start_time": "12:54:29",
+      "title": "hey myself Anas",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_9019ec5b",
+          "timestamp": "2026-08-21T12:55:22.462761+05:30",
+          "user_message": "hey myself Anas",
+          "assistant_response": "Hey Anas! Nice to meet you. I've got your name updated. How can I help you today?"
+        },
+        {
+          "message_id": "msg_642ffe24",
+          "timestamp": "2026-08-21T12:56:45.097784+05:30",
+          "user_message": "Can you let me know about upcoming holidays in my college?",
+          "assistant_response": "Based on your academic calendar, here are the upcoming college holidays recorded for you:\n\n### 🎉 **Ganpati Festival Holidays**\n* **Dates:** 15 September 2026 – 19 September 2026\n* **Duration:** 5 days\n* **Days:** Tuesday to Saturday\n\nIf there are any other holidays or schedule updates announced by your college, let me know and I will add them to your calendar!"
+        },
+        {
+          "message_id": "msg_e2b89644",
+          "timestamp": "2026-08-21T12:57:55.337821+05:30",
+          "user_message": "Can you tell me my PBL schedule dates?",
+          "assistant_response": "I don't have your specific **PBL (Project Based Learning)** schedule dates saved yet. \n\nCurrently, only general semester exam dates (ISE-1 on 1 Sept 2026, ISE-2 on 12 Oct 2026, and ESE starting after 28 Oct 2026) are recorded. \n\nIf you have the specific dates for your PBL presentations, reports, or internal assessments, let me know and I will save them for you!"
+        },
+        {
+          "message_id": "msg_5c13e663",
+          "timestamp": "2026-08-21T12:59:34.364388+05:30",
+          "user_message": "okay let me know how many days are left for my ISE1 and my ESE exams",
+          "assistant_response": "Today is **21 August 2026**. Here is the breakdown of the days remaining for your upcoming exams:\n\n### 📅 **1. ISE-1 Exam**\n* **Date:** 1 September 2026\n* **Days Remaining:** **11 days**\n\n---\n\n### 📅 **2. ESE (End Semester Exams)**\n* **Start Date:** 28 October 2026 (Last instructional day, followed by Oral/Practical and End Semester written exams through 28 November 2026)\n* **Days Remaining:** **68 days** (until the start of ESE phase on 28 October)"
+        },
+        {
+          "message_id": "msg_34ce687b",
+          "timestamp": "2026-08-21T13:00:56.516033+05:30",
+          "user_message": "now tell me how many days gap is there between ise 1 and ise 2 and what are the events coming in between",
+          "assistant_response": "Here is the breakdown of the gap and events between **ISE-1** and **ISE-2**:\n\n### 📅 **Exam Dates & Gap**\n* **ISE-1 Date:** 1 September 2026\n* **ISE-2 Date:** 12 October 2026\n* **Gap:** **41 days** (or 40 days in between the two exam dates)\n\n---\n\n### 🎉 **Events Coming In Between**\n* **Ganpati Festival Holidays:** \n  * **Dates:** 15 September 2026 – 19 September 2026\n  * **Duration:** 5 days (Tuesday to Saturday)\n\n*(Note: If any other subject-specific submission dates, PBL presentations, or extra events are announced, let me know so I can update them in your calendar!)*"
+        },
+        {
+          "message_id": "msg_6644d2ce",
+          "timestamp": "2026-08-21T13:02:54.250622+05:30",
+          "user_message": "tell me what are the modules in my ATCD subject?",
+          "assistant_response": "I don't have the module details or syllabus breakdown for **ATCD (Automata Theory & Compiler Design)** saved in your records yet. \n\nIf you have the list of modules or topics, let me know and I will gladly save them to your academic record!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_c8816072",
+      "date": "2026-08-21",
+      "start_time": "17:52:40",
+      "title": "Let me know everything you know about me",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_5093ff1d",
+          "timestamp": "2026-08-21T17:53:25.911314+05:30",
+          "user_message": "Let me know everything you know about me",
+          "assistant_response": "Here is everything I have recorded about you across all your profiles:\n\n---\n\n### 👤 **Personal Profile**\n* **Name:** Anas\n* **Current Project:** You are working on a project called **Digiमन** (details kept top-secret! 🤫).\n\n---\n\n### 🎓 **Academic Profile**\n* **Program:** B.Tech Artificial Intelligence and Machine Learning (Semester 5, Academic Year 2026–2027)\n* **Total Subjects (9):**\n  * **ESE Subjects (5):** ML, WAD, SE, ATCD, SSIC\n  * **Non-ESE Subjects (4):** IC, PS-IV, IP, PBL\n* **Recorded Marks:**\n  * **WAD Practical 1:** 97 / 100\n  * **WAD Practical 2:** 98 / 100\n* **Key Calendar Dates:**\n  * **ISE-1:** 1 September 2026\n  * **Ganpati Festival Holidays:** 15 September 2026 – 19 September 2026 (5 days)\n  * **ISE-2:** 12 October 2026\n  * **Last Instructional Day:** 28 October 2026\n  * **Semester End Date:** 28 November 2026\n\n---\n\n### 🏋️ **Body, Fitness & Health**\n* **Height:** 175 cm\n* **Weight:** 72 kg *(recorded on 20 Aug 2026)*\n* **Recent Activity (20 Aug 2026):**\n  * **Steps & Distance:** 8,000 steps *(Estimated ~5.81 km)*\n  * **Hydration:** 5,000 ml (5 Litres)\n  * **Workouts (2 Sessions - 75 mins total):**\n    * *Morning (30 mins):* 3 sets pushups (20 reps each), 80 squats, 40 lunges, 100 jumping jacks\n    * *Evening (45 mins):* 50 crunches, 30 burpees, 20 pushups, 100 jumping jacks\n  * **Nutrition Logged:** 1 bowl oats + 1 banana *(Estimated ~255 kcal)*\n\n---\n\n### 💰 **Finance (20 Aug 2026)**\n* **Currency:** INR (₹)\n* **Income Logged:** ₹500 (Pocket money)\n* **Total Expenses Logged:** ₹860\n  * *College Travel:* ₹100\n  * *Lunch:* ₹250 + ₹180\n  * *Evening Snack:* ₹80\n  * *Dinner:* ₹250\n\n---\n\n### 🧠 **Mind & Mood**\n* **Recorded Mood:** Happy\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Tracked**\n* Morning Meditation *(Completed)*\n* Meditation *(Completed)*\n* Workout *(Completed)*\n* Reading / Study *(Completed)*\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL:** Learned about internal data storage structures (pages and tuples).\n\n---\n\nIf you'd like to update any details or add new information, just let me know!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_fb661530",
+      "date": "2026-09-08",
+      "start_time": "11:33:42",
+      "title": "heyy",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_47edc0fe",
+          "timestamp": "2026-09-08T11:34:09.350796+05:30",
+          "user_message": "heyy",
+          "assistant_response": "Hey Anas! How can I help you today?"
+        },
+        {
+          "message_id": "msg_77e99126",
+          "timestamp": "2026-09-08T11:35:15.416176+05:30",
+          "user_message": "let me know about the upcoming holidays from my academic calendar",
+          "assistant_response": "Based on your academic calendar, here are the details for your upcoming college holidays:\n\n### 🎉 **Ganpati Festival Holidays**\n* **Dates:** 15 September 2026 – 19 September 2026\n* **Days:** Tuesday to Saturday\n* **Duration:** 5 days\n\nSince today is **8 September 2026**, your holidays will start in **7 days**! \n\n*(If any other holidays or schedule updates are announced by your college, let me know and I will add them to your calendar!)*"
+        },
+        {
+          "message_id": "msg_e92cdba4",
+          "timestamp": "2026-09-08T11:36:35.228629+05:30",
+          "user_message": "what is the schedule for ise2?",
+          "assistant_response": "Based on your academic calendar, **ISE-2** is scheduled to start on **12 October 2026**. \n\nHowever, the specific subject-wise timetable for ISE-2 has not been saved in your records yet. If you have the detailed schedule for individual subjects, let me know and I will update it for you!"
+        },
+        {
+          "message_id": "msg_553090e7",
+          "timestamp": "2026-09-08T11:38:56.875536+05:30",
+          "user_message": "give me all the information you know about me!",
+          "assistant_response": "Here is everything I have recorded about you across all your profiles:\n\n---\n\n### 👤 **Personal Profile**\n* **Name:** Anas\n* **Current Project:** Working on a project called **Digiमन** (details kept top-secret! 🤫)\n\n---\n\n### 🎓 **Academic Profile**\n* **Program:** B.Tech Artificial Intelligence and Machine Learning\n* **Semester:** Semester 5 (Academic Year 2026–2027)\n* **Total Subjects (9):**\n  * **ESE Subjects (5):** ML, WAD, SE, ATCD, SSIC\n  * **Non-ESE Subjects (4):** IC, PS-IV, IP, PBL\n* **Marks Obtained:**\n  * **WAD Practical 1:** 97 / 100\n  * **WAD Practical 2:** 98 / 100\n* **Key Calendar Dates:**\n  * **ISE-1:** 1 September 2026\n  * **Ganpati Festival Holidays:** 15 September 2026 – 19 September 2026 (5 days, Tuesday to Saturday)\n  * **ISE-2:** 12 October 2026\n  * **Last Instructional Day:** 28 October 2026\n  * **Semester End Date:** 28 November 2026\n\n---\n\n### 🏋️ **Body, Fitness & Health**\n* **Height:** 175 cm\n* **Weight:** 72 kg *(Recorded on 20 Aug 2026)*\n* **Activity & Measurements (20 Aug 2026):**\n  * **Steps & Distance:** 8,000 steps *(Estimated ~5.81 km, calculated from steps)*\n  * **Hydration:** 5,000 ml (5 Litres)\n  * **Workouts (2 Sessions — 75 mins total):**\n    * *Session 1 (30 mins):* Pushups (3 sets of 20 reps), 80 Squats, 40 Lunges, 100 Jumping Jacks\n    * *Session 2 (45 mins):* 50 Crunches, 30 Burpees, 20 Pushups, 100 Jumping Jacks\n  * **Nutrition Logged:** 1 bowl Oats + 1 Banana *(Estimated ~255 kcal)*\n\n---\n\n### 💰 **Finance (20 Aug 2026)**\n* **Currency:** INR (₹)\n* **Income:** ₹500 (Pocket money)\n* **Expenses Logged:** Total ₹860\n  * *Lunch:* ₹250\n  * *College Travel:* ₹100\n  * *Lunch:* ₹180\n  * *Evening Snack:* ₹80\n  * *Dinner:* ₹250\n* **Net Balance:** -₹360\n\n---\n\n### 🧠 **Mind & Mood (20 Aug 2026)**\n* **Mood:** Happy\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Completed**\n* Morning Meditation\n* Meditation\n* Workout\n* Reading / Study\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL:** Learned about how PostgreSQL manages data storage internally.\n\n---\n\nIf you'd like to update any of these records or add new information, just let me know!"
+        },
+        {
+          "message_id": "msg_cb17a505",
+          "timestamp": "2026-09-08T11:45:24.424999+05:30",
+          "user_message": "aaj ke college ka schedule kya hai?",
+          "assistant_response": "Anas, aapka aaj ka college ya lecture schedule mere paas abhi saved nahi hai. \n\nAgar aap mujhe apna daily timetable ya aaj ke lectures ki details bata denge, toh main unhe record kar lunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        },
+        {
+          "message_id": "msg_7077e171",
+          "timestamp": "2026-09-08T11:46:15.042903+05:30",
+          "user_message": "timetable ke according aaj ke day pe kya lectures hai?",
+          "assistant_response": "Anas, aapka daily timetable ya aaj ke lectures ka schedule mere paas abhi saved nahi hai. \n\nAgar aap mujhe apna class timetable ya lectures ki details share kar denge, toh main use save kar dunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        },
+        {
+          "message_id": "msg_07f98b32",
+          "timestamp": "2026-09-08T11:47:30.972448+05:30",
+          "user_message": "aaj konse lecs hai?",
+          "assistant_response": "Anas, aapka daily timetable ya aaj ke lectures ka schedule mere paas abhi saved nahi hai. \n\nAgar aap mujhe apna class timetable share kar denge, toh main use save kar lunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        },
+        {
+          "message_id": "msg_3d07e2b8",
+          "timestamp": "2026-09-08T11:50:35.214877+05:30",
+          "user_message": "mera weekly timetable kya hai",
+          "assistant_response": "Anas, aapka weekly timetable ya class schedule abhi mere paas saved nahi hai. \n\nAgar aap mujhe apna weekly timetable (kis din konse lectures hain) share kar denge, toh main use save kar lunga taaki aage jab bhi aap puchein, main aapko turant bata sakoon!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_83c9ce5a",
+      "date": "2026-09-08",
+      "start_time": "11:59:45",
+      "title": "heyy",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_9d6ea67e",
+          "timestamp": "2026-09-08T12:00:08.346698+05:30",
+          "user_message": "heyy",
+          "assistant_response": "Hey Anas! How can I help you today?"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_d2a97e9e",
+      "date": "2026-09-08",
+      "start_time": "14:38:58",
+      "title": "hi",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_4a98c515",
+          "timestamp": "2026-09-08T14:40:06.658342+05:30",
+          "user_message": "hi",
+          "assistant_response": "Hey Anas! How can I help you today?"
+        },
+        {
+          "message_id": "msg_5ab48889",
+          "timestamp": "2026-09-08T14:41:15.586993+05:30",
+          "user_message": "hey give me updates about me and today's schedule of mine and tasks to be done",
+          "assistant_response": "Hey Anas! Here are your updates and status for today, **8 September 2026**:\n\n---\n\n### 📅 **Today's Schedule & Tasks**\n* **Class Schedule / Timetable:** Aapka daily timetable ya aaj ke lectures ka schedule abhi mere paas saved nahi hai.\n* **Tasks / To-Do List:** Aaj ke liye koi specific tasks ya to-do items recorded nahi hain.\n\n---\n\n### 👤 **Profile & Academic Highlights**\n* **Name:** Anas\n* **Project:** Digiमन (Top secret 🤫)\n* **Program:** B.Tech AI & ML (Semester 5)\n* **WAD Practical Marks:** Practical 1: **97/100** | Practical 2: **98/100**\n* **Upcoming Holidays:** **Ganpati Holidays** start in **7 days** (15 September – 19 September 2026).\n* **Upcoming Exams:** **ISE-2** is scheduled to start on **12 October 2026**.\n\n---\n\n### 📊 **Today's Daily Logs (8 September 2026)**\n* **Health & Fitness:** Aaj ke liye koi steps, water intake, meals, ya workout logged nahi hain.\n* **Finance:** Aaj ke expenses ya income log nahi hue hain.\n* **Habits:** Aaj ki habits abhi mark nahi hui hain.\n\n---\n\nAgar aap apna aaj ka class schedule, tasks, or daily activities update karna chahte hain, toh mujhe bata dijiye!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_cb74bdc3",
+      "date": "2026-09-08",
+      "start_time": "14:41:41",
+      "title": "hi",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_c7c1f61a",
+          "timestamp": "2026-09-08T14:42:18.047157+05:30",
+          "user_message": "hi",
+          "assistant_response": "Hey Anas! How can I help you today?"
+        },
+        {
+          "message_id": "msg_826e36ff",
+          "timestamp": "2026-09-08T14:43:09.458591+05:30",
+          "user_message": "hey tell about everything uk about me",
+          "assistant_response": "Here is everything I have recorded about you across all your profiles:\n\n---\n\n### 👤 **Personal Profile**\n* **Name:** Anas\n* **Current Project:** Working on a project called **Digiमन** (details kept top-secret! 🤫)\n\n---\n\n### 🎓 **Academic Profile**\n* **Program:** B.Tech Artificial Intelligence and Machine Learning\n* **Semester:** Semester 5 (Academic Year 2026–2027)\n* **Total Subjects (9):**\n  * **ESE Subjects (5):** ML, WAD, SE, ATCD, SSIC\n  * **Non-ESE Subjects (4):** IC, PS-IV, IP, PBL\n* **Marks Obtained:**\n  * **WAD Practical 1:** 97 / 100\n  * **WAD Practical 2:** 98 / 100\n* **Key Calendar Dates:**\n  * **ISE-1:** 1 September 2026\n  * **Ganpati Festival Holidays:** 15 September 2026 – 19 September 2026 (5 days, Tuesday to Saturday)\n  * **ISE-2:** 12 October 2026\n  * **Last Instructional Day:** 28 October 2026\n  * **Semester End Date:** 28 November 2026\n\n---\n\n### 🏋️ **Body, Fitness & Health**\n* **Height:** 175 cm\n* **Weight:** 72 kg *(Recorded on 20 Aug 2026)*\n* **Logged Records (20 Aug 2026):**\n  * **Steps & Distance:** 8,000 steps *(Estimated ~5.81 km, calculated from steps)*\n  * **Hydration:** 5,000 ml (5 Litres)\n  * **Workouts (2 Sessions — 75 mins total):**\n    * *Session 1 (30 mins):* Pushups (3 sets of 20 reps), 80 Squats, 40 Lunges, 100 Jumping Jacks\n    * *Session 2 (45 mins):* 50 Crunches, 30 Burpees, 20 Pushups, 100 Jumping Jacks\n  * **Nutrition:** 1 bowl Oats + 1 Banana *(Estimated ~255 kcal)*\n\n---\n\n### 💰 **Finance (20 Aug 2026)**\n* **Currency:** INR (₹)\n* **Income:** ₹500 (Pocket money)\n* **Expenses Logged:** Total ₹860\n  * *Lunch:* ₹250\n  * *College Travel:* ₹100\n  * *Lunch:* ₹180\n  * *Evening Snack:* ₹80\n  * *Dinner:* ₹250\n* **Net Balance:** -₹360\n\n---\n\n### 🧠 **Mind & Mood (20 Aug 2026)**\n* **Mood:** Happy\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Tracked (Completed)**\n* Morning Meditation\n* Meditation\n* Workout\n* Reading / Study\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL:** Learned about how PostgreSQL manages data storage internally.\n\n---\n\nIf you'd like to update any of these details or log new information for today, just let me know!"
+        }
+      ]
+    },
+    {
+      "conversation_id": "conv_65bbe6d8",
+      "date": "2026-09-24",
+      "start_time": "10:58:42",
+      "title": "Let me know all the things you know about me!",
+      "summary": "",
+      "messages": [
+        {
+          "message_id": "msg_26754914",
+          "timestamp": "2026-09-24T10:59:06.326111+05:30",
+          "user_message": "Let me know all the things you know about me!",
+          "assistant_response": "Here is everything I have recorded about you across all your profiles:\n\n---\n\n### 👤 **Personal Profile**\n* **Name:** Anas\n* **Current Project:** You are working on a project called **Digiमन** (kept top-secret! 🤫).\n\n---\n\n### 🎓 **Academic Profile**\n* **Program:** B.Tech Artificial Intelligence and Machine Learning\n* **Semester:** Semester 5 (Academic Year 2026–2027)\n* **Total Subjects (9):**\n  * **ESE Subjects (5):** ML, WAD, SE, ATCD, SSIC\n  * **Non-ESE Subjects (4):** IC, PS-IV, IP, PBL\n* **Marks Obtained:**\n  * **WAD Practical 1:** 97 / 100\n  * **WAD Practical 2:** 98 / 100\n* **Key Calendar Dates:**\n  * **ISE-1:** 1 September 2026\n  * **Ganpati Festival Holidays:** 15 September 2026 – 19 September 2026 (5 days, Tuesday to Saturday)\n  * **ISE-2:** 12 October 2026\n  * **Last Instructional Day:** 28 October 2026\n  * **Semester End Date:** 28 November 2026\n\n---\n\n### 🏋️ **Body, Fitness & Health**\n* **Height:** 175 cm\n* **Weight:** 72 kg *(Recorded on 20 Aug 2026)*\n* **Logged Activity (20 Aug 2026):**\n  * **Steps & Distance:** 8,000 steps *(Estimated ~5.81 km, calculated from steps)*\n  * **Hydration:** 5,000 ml (5 Litres)\n  * **Workouts (2 Sessions — 75 mins total):**\n    * *Session 1 (30 mins):* Pushups (3 sets of 20 reps), 80 Squats, 40 Lunges, 100 Jumping Jacks\n    * *Session 2 (45 mins):* 50 Crunches, 30 Burpees, 20 Pushups, 100 Jumping Jacks\n  * **Nutrition Logged:** 1 bowl Oats + 1 Banana *(Estimated ~255 kcal)*\n\n---\n\n### 💰 **Finance (20 Aug 2026)**\n* **Currency:** INR (₹)\n* **Income Logged:** ₹500 (Pocket money)\n* **Total Expenses Logged:** ₹860\n  * *Lunch:* ₹250\n  * *College Travel:* ₹100\n  * *Lunch:* ₹180\n  * *Evening Snack:* ₹80\n  * *Dinner:* ₹250\n* **Net Balance:** -₹360\n\n---\n\n### 🧠 **Mind & Mood (20 Aug 2026)**\n* **Overall Mood:** Happy\n* **Energy Level:** Medium-to-high\n\n---\n\n### ✅ **Habits Tracked (Completed)**\n* Morning Meditation\n* Meditation\n* Workout\n* Reading / Study\n\n---\n\n### 📚 **Learnings**\n* **PostgreSQL:** Learned about how PostgreSQL manages data storage internally (pages, tuples, and indexing).\n\n---\n\nLet me know if you would like to update any details or log new information!"
+        }
+      ]
+    }
+  ]
+}

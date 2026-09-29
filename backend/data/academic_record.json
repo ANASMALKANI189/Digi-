@@ -1,0 +1,685 @@
+{
+  "record_version": "1.0",
+  "student": {
+    "semester": 5,
+    "academic_year": "2026-2027",
+    "program": "B.Tech Artificial Intelligence and Machine Learning"
+  },
+  "academic_targets": {
+    "target_gpa": null,
+    "target_cgpa": null,
+    "target_percentage": null,
+    "target_notes": ""
+  },
+  "subjects": {
+    "sub_ml_501": {
+      "subject_code": "ML",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "ise_1": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_2": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_3": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ie": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ese": {
+          "marks_obtained": null,
+          "out_of": 60,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "internal_actual": null,
+        "practical_actual": null,
+        "tutorial_actual": null,
+        "ese_actual": null,
+        "term_work_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_practical": null,
+        "predicted_tutorial": null,
+        "predicted_ese": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_wad_502": {
+      "subject_code": "WAD",
+      "topic_progress": {},
+      "practicals": {
+        "practical_1": {
+          "marks_obtained": 97,
+          "out_of": 100
+        },
+        "practical_2": {
+          "marks_obtained": 98,
+          "out_of": 100
+        }
+      },
+      "tutorials": {},
+      "assessments": {
+        "ise_1": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_2": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_3": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ie": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ese": {
+          "marks_obtained": null,
+          "out_of": 60,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "internal_actual": null,
+        "practical_actual": null,
+        "tutorial_actual": null,
+        "ese_actual": null,
+        "term_work_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_practical": null,
+        "predicted_tutorial": null,
+        "predicted_ese": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_se_503": {
+      "subject_code": "SE",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "ise_1": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_2": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_3": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ie": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ese": {
+          "marks_obtained": null,
+          "out_of": 60,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "internal_actual": null,
+        "practical_actual": null,
+        "tutorial_actual": null,
+        "ese_actual": null,
+        "term_work_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_practical": null,
+        "predicted_tutorial": null,
+        "predicted_ese": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_atcd_501": {
+      "subject_code": "ATCD",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "ise_1": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_2": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_3": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ie": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ese": {
+          "marks_obtained": null,
+          "out_of": 60,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "internal_actual": null,
+        "tutorial_actual": null,
+        "ese_actual": null,
+        "term_work_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_tutorial": null,
+        "predicted_ese": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_ssic_501": {
+      "subject_code": "SSIC",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "ise_1": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_2": {
+          "marks_obtained": null,
+          "out_of": 20,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ise_3": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ie": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        },
+        "ese": {
+          "marks_obtained": null,
+          "out_of": 60,
+          "date": null,
+          "question_paper": [],
+          "answer_or_solution": []
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "internal_actual": null,
+        "ese_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_ese": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_ic_501": {
+      "subject_code": "IC",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "term_work_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_ps_501": {
+      "subject_code": "PS-IV",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "practical_oral": {
+          "marks_obtained": null,
+          "out_of": 15,
+          "date": null,
+          "raw_activity_average": null,
+          "raw_activity_marks": [],
+          "evaluation_document": []
+        },
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "practical_oral_actual": null,
+        "term_work_actual": null,
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_practical_oral": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_ip_501": {
+      "subject_code": "IP",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "presentation": {
+          "marks_obtained": null,
+          "out_of": 15,
+          "date": null,
+          "files": []
+        },
+        "report": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "files": []
+        },
+        "term_work": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "files": []
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    },
+    "sub_pbl_501": {
+      "subject_code": "PBL",
+      "topic_progress": {},
+      "practicals": {},
+      "tutorials": {},
+      "assessments": {
+        "ia": {
+          "marks_obtained": null,
+          "out_of": 15,
+          "date": null,
+          "evaluation_document": [],
+          "remarks": ""
+        },
+        "presentation": {
+          "marks_obtained": null,
+          "out_of": 10,
+          "date": null,
+          "files": []
+        },
+        "report": {
+          "marks_obtained": null,
+          "out_of": 25,
+          "date": null,
+          "files": []
+        }
+      },
+      "module_resources": {},
+      "assignments": [],
+      "projects": [],
+      "question_papers": [],
+      "books_and_resources": [],
+      "miscellaneous": [],
+      "performance": {
+        "actual_total": null,
+        "actual_percentage": null,
+        "actual_grade": null,
+        "actual_grade_point": null,
+        "predicted_total": null,
+        "predicted_percentage": null,
+        "predicted_grade": null,
+        "predicted_grade_point": null,
+        "required_total_for_target": null,
+        "required_marks_in_remaining_components": {},
+        "improvement_needed": []
+      }
+    }
+  },
+  "semester_performance": {
+    "actual": {
+      "total_marks": null,
+      "percentage": null,
+      "gpa": null,
+      "cgpa": null
+    },
+    "predicted": {
+      "total_marks": null,
+      "percentage": null,
+      "gpa": null,
+      "cgpa": null
+    },
+    "required_for_target": {
+      "target_gpa": null,
+      "marks_needed_by_subject": {},
+      "priority_subjects": []
+    }
+  },
+  "academic_activity": {
+    "attendance": [],
+    "daily_college_updates": [],
+    "daily_self_study": [],
+    "revision_sessions": [],
+    "goals": [],
+    "achievements": []
+  },
+  "file_index": {
+    "semester_documents": [],
+    "templates": [],
+    "headers": [],
+    "watermarks": [],
+    "evaluation_tables": [],
+    "report_formats": [],
+    "miscellaneous_resources": []
+  },
+  "storage_structure": {
+    "semester_folder": "Semester_5_2026_27",
+    "subjects": {
+      "ML": {
+        "theory": "Semester_5_2026_27/ML/Theory",
+        "practical": "Semester_5_2026_27/ML/Practical",
+        "question_papers": "Semester_5_2026_27/ML/Question_Papers",
+        "assignments": "Semester_5_2026_27/ML/Assignments",
+        "projects": "Semester_5_2026_27/ML/Projects",
+        "resources": "Semester_5_2026_27/ML/Resources",
+        "miscellaneous": "Semester_5_2026_27/ML/Miscellaneous"
+      },
+      "WAD": {
+        "theory": "Semester_5_2026_27/WAD/Theory",
+        "practical": "Semester_5_2026_27/WAD/Practical",
+        "question_papers": "Semester_5_2026_27/WAD/Question_Papers",
+        "assignments": "Semester_5_2026_27/WAD/Assignments",
+        "projects": "Semester_5_2026_27/WAD/Projects",
+        "resources": "Semester_5_2026_27/WAD/Resources",
+        "miscellaneous": "Semester_5_2026_27/WAD/Miscellaneous"
+      },
+      "SE": {
+        "theory": "Semester_5_2026_27/SE/Theory",
+        "practical": "Semester_5_2026_27/SE/Practical",
+        "question_papers": "Semester_5_2026_27/SE/Question_Papers",
+        "assignments": "Semester_5_2026_27/SE/Assignments",
+        "projects": "Semester_5_2026_27/SE/Projects",
+        "resources": "Semester_5_2026_27/SE/Resources",
+        "miscellaneous": "Semester_5_2026_27/SE/Miscellaneous"
+      },
+      "ATCD": {
+        "theory": "Semester_5_2026_27/ATCD/Theory",
+        "tutorial": "Semester_5_2026_27/ATCD/Tutorial",
+        "question_papers": "Semester_5_2026_27/ATCD/Question_Papers",
+        "assignments": "Semester_5_2026_27/ATCD/Assignments",
+        "projects": "Semester_5_2026_27/ATCD/Projects",
+        "resources": "Semester_5_2026_27/ATCD/Resources",
+        "miscellaneous": "Semester_5_2026_27/ATCD/Miscellaneous"
+      },
+      "SSIC": {
+        "theory": "Semester_5_2026_27/SSIC/Theory",
+        "practical": "Semester_5_2026_27/SSIC/Practical",
+        "question_papers": "Semester_5_2026_27/SSIC/Question_Papers",
+        "assignments": "Semester_5_2026_27/SSIC/Assignments",
+        "resources": "Semester_5_2026_27/SSIC/Resources",
+        "miscellaneous": "Semester_5_2026_27/SSIC/Miscellaneous"
+      },
+      "IC": {
+        "theory": "Semester_5_2026_27/IC/Theory",
+        "question_papers": "Semester_5_2026_27/IC/Question_Papers",
+        "assignments": "Semester_5_2026_27/IC/Assignments",
+        "resources": "Semester_5_2026_27/IC/Resources",
+        "miscellaneous": "Semester_5_2026_27/IC/Miscellaneous"
+      },
+      "PS-IV": {
+        "theory": "Semester_5_2026_27/PS-IV/Theory",
+        "practical": "Semester_5_2026_27/PS-IV/Practical",
+        "question_papers": "Semester_5_2026_27/PS-IV/Question_Papers",
+        "projects": "Semester_5_2026_27/PS-IV/Projects",
+        "resources": "Semester_5_2026_27/PS-IV/Resources",
+        "miscellaneous": "Semester_5_2026_27/PS-IV/Miscellaneous"
+      },
+      "IP": {
+        "theory": "Semester_5_2026_27/IP/Theory",
+        "practical": "Semester_5_2026_27/IP/Practical",
+        "question_papers": "Semester_5_2026_27/IP/Question_Papers",
+        "projects": "Semester_5_2026_27/IP/Projects",
+        "resources": "Semester_5_2026_27/IP/Resources",
+        "miscellaneous": "Semester_5_2026_27/IP/Miscellaneous"
+      },
+      "PBL": {
+        "theory": "Semester_5_2026_27/PBL/Theory",
+        "practical": "Semester_5_2026_27/PBL/Practical",
+        "question_papers": "Semester_5_2026_27/PBL/Question_Papers",
+        "projects": "Semester_5_2026_27/PBL/Projects",
+        "resources": "Semester_5_2026_27/PBL/Resources",
+        "miscellaneous": "Semester_5_2026_27/PBL/Miscellaneous"
+      }
+    },
+    "semester_documents": "Semester_5_2026_27/Semester_Documents",
+    "personal_resources": "Semester_5_2026_27/Personal_Resources"
+  }
+}

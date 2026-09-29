@@ -1,0 +1,331 @@
+{
+  "profile": {
+    "height_cm": 175.0,
+    "height_updated_at": "2026-08-20T16:59:50.466786+05:30"
+  },
+  "daily_records": {
+    "2026-08-20": {
+      "date": "2026-08-20",
+      "status": "locked",
+      "body_measurements": {
+        "weight_kg": 72.0,
+        "weight_recorded_at": "2026-08-20T16:59:50.466811+05:30"
+      },
+      "hydration": {
+        "total_intake_ml": 5000,
+        "entries": [
+          {
+            "timestamp": "2026-08-20T15:18:59.755095+05:30",
+            "amount_ml": 500,
+            "source": "user_reported"
+          },
+          {
+            "timestamp": "2026-08-20T16:44:23.564930+05:30",
+            "amount_ml": 1000,
+            "source": "user_reported"
+          },
+          {
+            "timestamp": "2026-08-20T16:59:50.466834+05:30",
+            "amount_ml": 1000,
+            "source": "user_reported"
+          },
+          {
+            "timestamp": "2026-08-20T16:59:50.466853+05:30",
+            "amount_ml": 1500,
+            "source": "user_reported"
+          },
+          {
+            "timestamp": "2026-08-20T16:59:50.466868+05:30",
+            "amount_ml": 1000,
+            "source": "user_reported"
+          }
+        ]
+      },
+      "nutrition": {
+        "total_calories_consumed": 255,
+        "meals": [
+          {
+            "meal_id": "meal_5f34e958",
+            "meal_type": "breakfast",
+            "timestamp": "2026-08-20T15:20:05.365181+05:30",
+            "foods": [
+              {
+                "name": "oats",
+                "quantity": "1 bowl",
+                "estimated_calories": 150
+              },
+              {
+                "name": "banana",
+                "quantity": "1",
+                "estimated_calories": 105
+              }
+            ],
+            "meal_total_calories": 255
+          },
+          {
+            "meal_id": "meal_c87e34c3",
+            "meal_type": "breakfast",
+            "timestamp": "2026-08-20T16:59:50.466995+05:30",
+            "foods": [],
+            "meal_total_calories": 0
+          },
+          {
+            "meal_id": "meal_fbd24544",
+            "meal_type": "lunch",
+            "timestamp": "2026-08-20T16:59:50.467025+05:30",
+            "foods": [],
+            "meal_total_calories": 0
+          },
+          {
+            "meal_id": "meal_79ad9088",
+            "meal_type": "snack",
+            "timestamp": "2026-08-20T16:59:50.467045+05:30",
+            "foods": [],
+            "meal_total_calories": 0
+          },
+          {
+            "meal_id": "meal_5e48a1a0",
+            "meal_type": "dinner",
+            "timestamp": "2026-08-20T16:59:50.467062+05:30",
+            "foods": [],
+            "meal_total_calories": 0
+          }
+        ]
+      },
+      "activity": {
+        "steps": {
+          "count": 8000,
+          "status": "recording",
+          "last_updated_at": "2026-08-20T16:59:50.466883+05:30"
+        },
+        "distance": {
+          "value": 5.81,
+          "unit": "km",
+          "last_updated_at": "2026-08-20T16:59:50.467165+05:30",
+          "calculation": "estimated_from_steps"
+        }
+      },
+      "workouts": {
+        "total_sessions": 2,
+        "total_duration_minutes": 75.0,
+        "sessions": [
+          {
+            "session_id": "workout_73a2b21e",
+            "start_time": "2026-08-20T16:59:50.467084+05:30",
+            "end_time": "2026-08-20T17:29:50.467084+05:30",
+            "duration_minutes": 30.0,
+            "exercises": [
+              {
+                "name": "pushups",
+                "sets": 3,
+                "reps": 20
+              },
+              {
+                "name": "squats",
+                "reps": 80
+              },
+              {
+                "name": "lunges",
+                "reps": 40
+              },
+              {
+                "name": "jumping jacks",
+                "reps": 100
+              }
+            ]
+          },
+          {
+            "session_id": "workout_92a34a32",
+            "start_time": "18:30",
+            "end_time": null,
+            "duration_minutes": 45.0,
+            "exercises": [
+              {
+                "name": "crunches",
+                "reps": 50
+              },
+              {
+                "name": "burpees",
+                "reps": 30
+              },
+              {
+                "name": "pushups",
+                "reps": 20
+              },
+              {
+                "name": "jumping jacks",
+                "reps": 100
+              }
+            ]
+          }
+        ]
+      },
+      "daily_summary": {
+        "water_intake_ml": 5000,
+        "calories_consumed": 255,
+        "steps": 8000,
+        "distance_km": 5.81,
+        "workout_duration_minutes": 75.0,
+        "workout_sessions": 2
+      },
+      "notes": []
+    },
+    "2026-08-21": {
+      "date": "2026-08-21",
+      "status": "locked",
+      "body_measurements": {
+        "weight_kg": null,
+        "weight_recorded_at": null
+      },
+      "hydration": {
+        "total_intake_ml": 0,
+        "entries": []
+      },
+      "nutrition": {
+        "total_calories_consumed": 0,
+        "meals": []
+      },
+      "activity": {
+        "steps": {
+          "count": 0,
+          "status": "not_recorded",
+          "last_updated_at": null
+        },
+        "distance": {
+          "value": 0,
+          "unit": "km",
+          "last_updated_at": null,
+          "calculation": "estimated_from_steps"
+        }
+      },
+      "workouts": {
+        "total_sessions": 0,
+        "total_duration_minutes": 0,
+        "sessions": []
+      },
+      "daily_summary": {
+        "water_intake_ml": 0,
+        "calories_consumed": 0,
+        "steps": 0,
+        "distance_km": 0,
+        "workout_duration_minutes": 0,
+        "workout_sessions": 0
+      },
+      "notes": []
+    },
+    "2026-09-08": {
+      "date": "2026-09-08",
+      "status": "locked",
+      "body_measurements": {
+        "weight_kg": null,
+        "weight_recorded_at": null
+      },
+      "hydration": {
+        "total_intake_ml": 0,
+        "entries": []
+      },
+      "nutrition": {
+        "total_calories_consumed": 0,
+        "meals": []
+      },
+      "activity": {
+        "steps": {
+          "count": 0,
+          "status": "not_recorded",
+          "last_updated_at": null
+        },
+        "distance": {
+          "value": 0,
+          "unit": "km",
+          "last_updated_at": null,
+          "calculation": "estimated_from_steps"
+        }
+      },
+      "workouts": {
+        "total_sessions": 0,
+        "total_duration_minutes": 0,
+        "sessions": []
+      },
+      "daily_summary": {
+        "water_intake_ml": 0,
+        "calories_consumed": 0,
+        "steps": 0,
+        "distance_km": 0,
+        "workout_duration_minutes": 0,
+        "workout_sessions": 0
+      },
+      "notes": []
+    },
+    "2026-09-24": {
+      "date": "2026-09-24",
+      "status": "open",
+      "body_measurements": {
+        "weight_kg": null,
+        "weight_recorded_at": null
+      },
+      "hydration": {
+        "total_intake_ml": 0,
+        "entries": []
+      },
+      "nutrition": {
+        "total_calories_consumed": 0,
+        "meals": []
+      },
+      "activity": {
+        "steps": {
+          "count": 0,
+          "status": "not_recorded",
+          "last_updated_at": null
+        },
+        "distance": {
+          "value": 0,
+          "unit": "km",
+          "last_updated_at": null,
+          "calculation": "estimated_from_steps"
+        }
+      },
+      "workouts": {
+        "total_sessions": 0,
+        "total_duration_minutes": 0,
+        "sessions": []
+      },
+      "daily_summary": {
+        "water_intake_ml": 0,
+        "calories_consumed": 0,
+        "steps": 0,
+        "distance_km": 0,
+        "workout_duration_minutes": 0,
+        "workout_sessions": 0
+      },
+      "notes": []
+    }
+  },
+  "days": {
+    "2026-08-20": {
+      "date": "2026-08-20",
+      "day_name": "Thursday",
+      "locked": false,
+      "height_cm": null,
+      "weight_kg": null,
+      "water_intake": {
+        "target_liters": 3.0,
+        "total_liters": 0.0,
+        "entries": []
+      },
+      "nutrition": {
+        "total_calories": 0,
+        "meals": []
+      },
+      "activity": {
+        "step_count": 0,
+        "last_step_update": null,
+        "distance_km": 0.0,
+        "distance_calculation": "Automatically calculated from steps using stride length."
+      },
+      "workout": {
+        "total_duration_minutes": 0,
+        "sessions": []
+      }
+    }
+  }
+}
